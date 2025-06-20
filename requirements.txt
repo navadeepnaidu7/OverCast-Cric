@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium
+tqdm
+openpyxl
+matplotlib
+scikit-learn
+python-dotenv

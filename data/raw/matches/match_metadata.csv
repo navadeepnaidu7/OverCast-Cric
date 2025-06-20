@@ -1,0 +1,955 @@
+match_id,date,team1,team2,toss_winner,toss_decision,venue,city,match_type,winner,win_by,win_margin,innings1_runs,innings2_runs,innings1_wickets,innings2_wickets,day_night,dl_applied
+1082591,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,35,207,172,4,10,Night,False
+1082595,2017-04-08,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,runs,15,157,142,8,9,Night,False
+1082597,2017-04-09,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,4,178,180,7,6,Night,False
+1082598,2017-04-10,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Holkar Cricket Stadium,Indore,Group,Punjab Kings,wickets,8,148,150,4,2,Night,False
+1082600,2017-04-12,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,4,158,159,8,6,Night,False
+1082601,2017-04-13,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,170,171,9,2,Night,False
+1082602,2017-04-14,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,wickets,4,142,145,5,6,Night,False
+1082604,2017-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,17,172,155,6,6,Day,False
+1082605,2017-04-15,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,51,188,137,6,9,Night,False
+1082608,2017-04-17,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Kolkata Knight Riders,wickets,4,168,169,7,6,Day,False
+1082609,2017-04-17,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,5,159,154,6,10,Night,False
+1082611,2017-04-19,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,15,191,176,4,5,Night,False
+1082612,2017-04-20,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Holkar Cricket Stadium,Indore,Group,Mumbai Indians,wickets,8,198,199,4,2,Night,False
+1082614,2017-04-22,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,14,142,128,8,7,Night,False
+1082617,2017-04-23,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,82,131,49,10,10,Night,False
+1082622,2017-04-28,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,7,160,161,6,3,Day,False
+1082623,2017-04-28,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Sunrisers Hyderabad,runs,26,207,181,3,9,Night,False
+1082626,2017-04-30,Punjab Kings,Delhi Capitals,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,10,67,68,10,0,Day,False
+1082627,2017-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,48,209,161,3,7,Night,False
+1082628,2017-05-01,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,5,162,165,8,6,Night,False
+1082630,2017-05-02,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,6,185,189,3,4,Night,False
+1082633,2017-05-05,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Punjab Kings,runs,19,138,119,7,10,Night,False
+1082635,2017-05-06,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Mumbai Indians,runs,146,212,66,3,10,Night,False
+1082636,2017-05-07,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,M Chinnaswamy Stadium,Bangalore,Group,Kolkata Knight Riders,wickets,6,158,159,6,4,Night,False
+1082638,2017-05-08,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,7,138,140,7,3,Night,False
+1082639,2017-05-09,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,14,167,153,6,6,Night,False
+1082641,2017-05-11,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Punjab Kings,runs,7,230,223,3,6,Night,False
+1082644,2017-05-13,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Mumbai Indians,runs,9,173,164,5,8,Night,False
+1082646,2017-05-14,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Feroz Shah Kotla,Delhi,Group,Royal Challengers Bengaluru,runs,10,161,151,6,10,Night,False
+1082648,2017-05-17,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,M Chinnaswamy Stadium,Bangalore,Eliminator,Kolkata Knight Riders,wickets,7,128,48,7,3,Night,True
+1082649,2017-05-19,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Qualifier 2,Mumbai Indians,wickets,6,107,111,10,4,Night,False
+1136561,2018-04-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Group,Chennai Super Kings,wickets,1,165,169,4,9,Night,False
+1136562,2018-04-08,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,wickets,6,166,167,7,4,Day,False
+1136563,2018-04-08,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,4,176,177,7,6,Night,False
+1136564,2018-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,9,125,127,9,1,Night,False
+1136565,2018-04-10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,wickets,5,202,205,6,5,Night,False
+1136566,2018-04-11,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,10,153,60,5,4,Night,True
+1136567,2018-04-12,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,1,147,151,8,9,Night,False
+1136568,2018-04-13,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,wickets,4,155,159,10,6,Night,False
+1136569,2018-04-14,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Group,Delhi Capitals,wickets,7,194,195,7,3,Day,False
+1136570,2018-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,Kolkata,Group,Sunrisers Hyderabad,wickets,5,138,139,8,5,Night,False
+1136571,2018-04-15,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,M.Chinnaswamy Stadium,Bengaluru,Group,Rajasthan Royals,runs,19,217,198,4,6,Day,False
+1136572,2018-04-15,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,runs,4,197,193,7,5,Night,False
+1136573,2018-04-16,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,71,200,129,9,10,Night,False
+1136574,2018-04-17,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,46,213,167,6,8,Night,False
+1136575,2018-04-18,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh Stadium,Jaipur,Group,Kolkata Knight Riders,wickets,7,160,163,8,3,Night,False
+1136576,2018-04-19,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,runs,15,193,178,3,5,Night,False
+1136577,2018-04-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Maharashtra Cricket Association Stadium,Pune,Group,Chennai Super Kings,runs,64,204,140,5,10,Night,False
+1136578,2018-04-21,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Eden Gardens,Kolkata,Group,Punjab Kings,wickets,9,191,126,7,1,Day,True
+1136579,2018-04-21,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,wickets,6,174,176,5,4,Night,False
+1136580,2018-04-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Chennai Super Kings,runs,4,182,178,3,6,Day,False
+1136581,2018-04-22,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,3,167,168,7,7,Night,False
+1136582,2018-04-23,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Arun Jaitley Stadium,Delhi,Group,Punjab Kings,runs,4,143,139,8,8,Night,False
+1136583,2018-04-24,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Sunrisers Hyderabad,runs,31,118,87,10,10,Night,False
+1136584,2018-04-25,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,M.Chinnaswamy Stadium,Bengaluru,Group,Chennai Super Kings,wickets,5,205,207,8,5,Night,False
+1136585,2018-04-26,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,runs,13,132,119,6,10,Night,False
+1136586,2018-04-27,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,runs,55,219,164,4,9,Night,False
+1136587,2018-04-28,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Maharashtra Cricket Association Stadium,Pune,Group,Mumbai Indians,wickets,8,169,170,5,2,Night,False
+1136588,2018-04-29,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sawai Mansingh Stadium,Jaipur,Group,Sunrisers Hyderabad,runs,11,151,140,7,6,Day,False
+1136589,2018-04-29,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,M.Chinnaswamy Stadium,Bengaluru,Group,Kolkata Knight Riders,wickets,6,175,176,4,5,Night,False
+1136590,2018-04-30,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Maharashtra Cricket Association Stadium,Pune,Group,Chennai Super Kings,runs,13,211,198,4,5,Night,False
+1136591,2018-05-01,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,runs,14,167,153,7,7,Night,False
+1136592,2018-05-02,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,runs,4,196,146,6,5,Night,True
+1136593,2018-05-03,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,6,177,180,5,4,Night,False
+1136594,2018-05-04,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Holkar Cricket Stadium,Indore,Group,Mumbai Indians,wickets,6,174,176,6,4,Night,False
+1136595,2018-05-05,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Maharashtra Cricket Association Stadium,Pune,Group,Chennai Super Kings,wickets,6,127,128,9,4,Day,False
+1136596,2018-05-05,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,7,163,164,5,3,Night,False
+1136597,2018-05-06,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,13,181,168,4,6,Day,False
+1136598,2018-05-06,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Holkar Cricket Stadium,Indore,Group,Punjab Kings,wickets,6,152,155,9,4,Night,False
+1136599,2018-05-07,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,runs,5,146,141,10,6,Night,False
+1136600,2018-05-08,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,15,158,143,8,7,Night,False
+1136601,2018-05-09,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Mumbai Indians,runs,102,210,108,6,10,Night,False
+1136602,2018-05-10,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Arun Jaitley Stadium,Delhi,Group,Sunrisers Hyderabad,wickets,9,187,191,5,1,Night,False
+1136603,2018-05-11,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,4,176,177,4,6,Night,False
+1136604,2018-05-12,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Holkar Cricket Stadium,Indore,Group,Kolkata Knight Riders,runs,31,245,214,6,8,Day,False
+1136605,2018-05-12,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Arun Jaitley Stadium,Delhi,Group,Royal Challengers Bengaluru,wickets,5,181,187,4,5,Night,False
+1136606,2018-05-13,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Maharashtra Cricket Association Stadium,Pune,Group,Chennai Super Kings,wickets,8,179,180,4,2,Day,False
+1136607,2018-05-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Wankhede Stadium,Mumbai,Group,Rajasthan Royals,wickets,7,168,171,6,3,Night,False
+1136608,2018-05-14,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Holkar Cricket Stadium,Indore,Group,Royal Challengers Bengaluru,wickets,10,88,92,10,0,Night,False
+1136609,2018-05-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,6,142,145,10,4,Night,False
+1136610,2018-05-16,Mumbai Indians,Punjab Kings,Punjab Kings,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,3,186,183,8,5,Night,False
+1136611,2018-05-17,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,runs,14,218,204,6,3,Night,False
+1136612,2018-05-18,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,runs,34,162,128,5,6,Night,False
+1136613,2018-05-19,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,30,164,134,5,10,Day,False
+1136614,2018-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Rajiv Gandhi International Stadium,Hyderabad,Group,Kolkata Knight Riders,wickets,5,172,173,9,5,Night,False
+1136615,2018-05-20,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,runs,11,174,163,4,10,Day,False
+1136616,2018-05-20,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Maharashtra Cricket Association Stadium,Pune,Group,Chennai Super Kings,wickets,5,153,159,10,5,Night,False
+1136617,2018-05-22,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Qualifier 1,Chennai Super Kings,wickets,2,139,140,7,8,Night,False
+1136618,2018-05-23,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,Kolkata,Eliminator,Kolkata Knight Riders,runs,25,169,144,7,4,Night,False
+1136619,2018-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Qualifier 2,Sunrisers Hyderabad,runs,14,174,160,7,9,Night,False
+1136620,2018-05-27,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Final,Chennai Super Kings,wickets,8,178,181,6,2,Night,False
+1175356,2019-03-23,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,wickets,7,70,71,10,3,Night,False
+1175357,2019-03-24,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,6,181,183,3,4,Day,False
+1175358,2019-03-24,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Delhi Capitals,runs,37,213,176,6,9,Night,False
+1175359,2019-03-25,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Punjab Kings,runs,14,184,170,4,9,Night,False
+1175360,2019-03-26,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Arun Jaitley Stadium,Delhi,Group,Chennai Super Kings,wickets,6,147,150,6,4,Night,False
+1175361,2019-03-27,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,28,218,190,4,4,Night,False
+1175362,2019-03-28,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,M.Chinnaswamy Stadium,Bengaluru,Group,Mumbai Indians,runs,6,187,181,8,5,Night,False
+1175363,2019-03-29,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,5,198,201,2,5,Night,False
+1175364,2019-03-30,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,wickets,8,176,177,7,2,Day,False
+1175365,2019-03-30,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Arun Jaitley Stadium,Delhi,Group,,,0,185,185,8,6,Night,False
+1175366,2019-03-31,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,runs,118,231,113,2,10,Day,False
+1175367,2019-03-31,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,runs,8,175,167,5,8,Night,False
+1175368,2019-04-01,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,runs,14,166,152,9,10,Night,False
+1175369,2019-04-02,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,7,158,164,4,3,Night,False
+1175370,2019-04-03,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,37,170,133,5,8,Night,False
+1175371,2019-04-04,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Arun Jaitley Stadium,Delhi,Group,Sunrisers Hyderabad,wickets,5,129,131,8,5,Night,False
+1175372,2019-04-05,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,M.Chinnaswamy Stadium,Bengaluru,Group,Kolkata Knight Riders,wickets,5,205,206,3,5,Night,False
+1178393,2019-04-06,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,runs,22,160,138,3,5,Day,False
+1178394,2019-04-06,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Mumbai Indians,runs,40,136,96,7,10,Night,False
+1178395,2019-04-07,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,M.Chinnaswamy Stadium,Bengaluru,Group,Delhi Capitals,wickets,4,149,152,8,6,Day,False
+1178396,2019-04-07,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh Stadium,Jaipur,Group,Kolkata Knight Riders,wickets,8,139,140,3,2,Night,False
+1178397,2019-04-08,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,wickets,6,150,151,4,4,Night,False
+1178398,2019-04-09,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,wickets,7,108,111,9,3,Night,False
+1178399,2019-04-10,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,3,197,198,4,7,Night,False
+1178400,2019-04-11,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh Stadium,Jaipur,Group,Chennai Super Kings,wickets,4,151,155,7,6,Night,False
+1178401,2019-04-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Eden Gardens,Kolkata,Group,Delhi Capitals,wickets,7,178,180,7,3,Night,False
+1178402,2019-04-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Wankhede Stadium,Mumbai,Group,Rajasthan Royals,wickets,4,187,188,5,6,Day,False
+1178403,2019-04-13,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Royal Challengers Bengaluru,wickets,8,173,174,4,2,Night,False
+1178404,2019-04-14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,Kolkata,Group,Chennai Super Kings,wickets,5,161,162,8,5,Day,False
+1178405,2019-04-14,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Delhi Capitals,runs,39,155,116,7,10,Night,False
+1178406,2019-04-15,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,5,171,172,7,5,Night,False
+1178407,2019-04-16,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,runs,12,182,170,6,7,Night,False
+1178408,2019-04-17,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,6,132,137,5,4,Night,False
+1178409,2019-04-18,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Arun Jaitley Stadium,Delhi,Group,Mumbai Indians,runs,40,168,128,5,9,Night,False
+1178410,2019-04-19,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Royal Challengers Bengaluru,runs,10,213,203,4,5,Night,False
+1178411,2019-04-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,5,161,162,5,5,Day,False
+1178412,2019-04-20,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,wickets,5,163,166,7,5,Night,False
+1178413,2019-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,wickets,9,159,161,8,1,Day,False
+1178414,2019-04-21,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,runs,1,161,160,7,8,Night,False
+1178415,2019-04-22,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh Stadium,Jaipur,Group,Delhi Capitals,wickets,6,191,193,6,4,Night,False
+1178416,2019-04-23,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,wickets,6,175,176,3,4,Night,False
+1178417,2019-04-24,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,runs,17,202,185,4,7,Night,False
+1178418,2019-04-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,Kolkata,Group,Rajasthan Royals,wickets,3,175,177,6,7,Night,False
+1178419,2019-04-26,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram Stadium,Chennai,Group,Mumbai Indians,runs,46,155,109,4,10,Night,False
+1178420,2019-04-27,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,7,160,161,8,3,Night,False
+1178421,2019-04-28,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,runs,16,187,171,5,7,Day,False
+1178422,2019-04-28,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,34,232,198,2,7,Night,False
+1178423,2019-04-29,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Rajiv Gandhi International Stadium,Hyderabad,Group,Sunrisers Hyderabad,runs,45,212,167,6,8,Night,False
+1178424,2019-04-30,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,M.Chinnaswamy Stadium,Bengaluru,Group,,,0,62,41,7,1,Night,False
+1178425,2019-05-01,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,MA Chidambaram Stadium,Chennai,Group,Chennai Super Kings,runs,80,179,99,4,10,Night,False
+1178426,2019-05-02,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,,,0,162,162,5,6,Night,False
+1178427,2019-05-03,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Kolkata Knight Riders,wickets,7,183,185,6,3,Night,False
+1178428,2019-05-04,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Arun Jaitley Stadium,Delhi,Group,Delhi Capitals,wickets,5,115,121,9,5,Day,False
+1178429,2019-05-04,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,M.Chinnaswamy Stadium,Bengaluru,Group,Royal Challengers Bengaluru,wickets,4,175,178,7,6,Night,False
+1178430,2019-05-05,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Group,Punjab Kings,wickets,6,170,173,5,4,Day,False
+1178431,2019-05-05,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,9,133,134,7,1,Night,False
+1181764,2019-05-07,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,MA Chidambaram Stadium,Chennai,Qualifier 1,Mumbai Indians,wickets,6,131,132,4,4,Night,False
+1181766,2019-05-08,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Eliminator,Delhi Capitals,wickets,2,162,165,8,8,Night,False
+1181767,2019-05-10,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Qualifier 2,Chennai Super Kings,wickets,6,147,151,9,4,Night,False
+1181768,2019-05-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Rajiv Gandhi International Stadium,Hyderabad,Final,Mumbai Indians,runs,1,149,148,8,7,Night,False
+1216492,2020-09-19,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Chennai Super Kings,wickets,5,162,166,9,5,Night,False
+1216493,2020-09-20,Delhi Capitals,Punjab Kings,Punjab Kings,field,Dubai International Cricket Stadium,,Group,,,0,157,157,8,8,Night,False
+1216494,2020-10-21,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Royal Challengers Bengaluru,wickets,8,84,85,8,2,Night,False
+1216495,2020-11-03,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sharjah Cricket Stadium,,Group,Sunrisers Hyderabad,wickets,10,149,151,8,0,Night,False
+1216496,2020-09-22,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Sharjah Cricket Stadium,,Group,Rajasthan Royals,runs,16,216,200,7,6,Night,False
+1216497,2020-10-24,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Kolkata Knight Riders,runs,59,194,135,6,9,Day,False
+1216498,2020-10-24,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Dubai International Cricket Stadium,,Group,Punjab Kings,runs,12,126,114,7,10,Night,False
+1216499,2020-10-28,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,wickets,5,164,166,6,5,Night,False
+1216500,2020-10-09,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Sharjah Cricket Stadium,,Group,Delhi Capitals,runs,46,184,138,8,10,Night,False
+1216501,2020-10-07,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Kolkata Knight Riders,runs,10,167,157,10,5,Night,False
+1216502,2020-10-31,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sharjah Cricket Stadium,,Group,Sunrisers Hyderabad,wickets,5,120,121,7,5,Day,False
+1216503,2020-10-01,Mumbai Indians,Punjab Kings,Punjab Kings,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,runs,48,191,143,4,8,Night,False
+1216504,2020-09-30,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Dubai International Cricket Stadium,,Group,Kolkata Knight Riders,runs,37,174,137,6,9,Night,False
+1216505,2020-11-02,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Delhi Capitals,wickets,6,152,154,7,4,Night,False
+1216506,2020-11-01,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Chennai Super Kings,wickets,9,153,154,6,1,Day,False
+1216507,2020-10-11,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,,Group,Rajasthan Royals,wickets,5,158,163,4,5,Day,False
+1216508,2020-09-23,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,runs,49,195,146,5,9,Night,False
+1216509,2020-10-17,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Sharjah Cricket Stadium,,Group,Delhi Capitals,wickets,5,179,185,4,5,Day,False
+1216510,2020-09-24,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Dubai International Cricket Stadium,,Group,Punjab Kings,runs,97,206,109,3,10,Night,False
+1216511,2020-10-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,runs,57,193,136,4,10,Night,False
+1216512,2020-10-18,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sheikh Zayed Stadium,Abu Dhabi,Group,,,0,163,163,5,6,Day,False
+1216513,2020-10-04,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Dubai International Cricket Stadium,,Group,Chennai Super Kings,wickets,10,178,181,4,0,Day,False
+1216514,2020-10-03,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Royal Challengers Bengaluru,wickets,8,154,158,6,2,Day,False
+1216515,2020-10-03,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sharjah Cricket Stadium,,Group,Delhi Capitals,runs,18,228,210,4,8,Night,False
+1216516,2020-10-02,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,runs,7,164,157,5,5,Night,False
+1216517,2020-10-18,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Dubai International Cricket Stadium,,Group,,,0,176,176,6,6,Night,False
+1216518,2020-10-22,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,wickets,8,154,156,6,2,Night,False
+1216519,2020-10-05,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Dubai International Cricket Stadium,,Group,Delhi Capitals,runs,59,196,137,4,9,Night,False
+1216520,2020-10-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Sharjah Cricket Stadium,,Group,Punjab Kings,wickets,8,149,150,9,2,Night,False
+1216521,2020-10-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Sharjah Cricket Stadium,,Group,Mumbai Indians,wickets,10,114,116,9,0,Night,False
+1216522,2020-10-17,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Dubai International Cricket Stadium,,Group,Royal Challengers Bengaluru,wickets,7,177,179,6,3,Night,False
+1216523,2020-10-10,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Kolkata Knight Riders,runs,2,164,162,6,5,Day,False
+1216524,2020-10-27,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,runs,88,219,131,2,10,Night,False
+1216525,2020-10-10,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Dubai International Cricket Stadium,,Group,Royal Challengers Bengaluru,runs,37,169,132,4,8,Night,False
+1216526,2020-10-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,wickets,8,148,149,5,2,Night,False
+1216527,2020-09-27,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Sharjah Cricket Stadium,,Group,Rajasthan Royals,wickets,4,223,226,2,6,Night,False
+1216528,2020-10-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Dubai International Cricket Stadium,,Group,Chennai Super Kings,runs,20,167,147,6,8,Night,False
+1216529,2020-10-11,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Mumbai Indians,wickets,5,162,166,4,5,Night,False
+1216530,2020-11-01,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Dubai International Cricket Stadium,,Group,Kolkata Knight Riders,runs,60,191,131,7,9,Night,False
+1216531,2020-10-15,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Sharjah Cricket Stadium,,Group,Punjab Kings,wickets,8,171,177,6,2,Night,False
+1216532,2020-09-29,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Sunrisers Hyderabad,runs,15,162,147,4,7,Night,False
+1216533,2020-10-19,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Rajasthan Royals,wickets,7,125,126,5,3,Night,False
+1216534,2020-09-21,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Dubai International Cricket Stadium,,Group,Royal Challengers Bengaluru,runs,10,163,153,5,10,Night,False
+1216535,2020-10-31,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Dubai International Cricket Stadium,,Group,Mumbai Indians,wickets,9,110,111,9,1,Night,False
+1216536,2020-10-29,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Dubai International Cricket Stadium,,Group,Chennai Super Kings,wickets,6,172,178,5,4,Night,False
+1216537,2020-10-30,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Rajasthan Royals,wickets,7,185,186,4,3,Night,False
+1216538,2020-10-04,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sharjah Cricket Stadium,,Group,Mumbai Indians,runs,34,208,174,5,7,Night,False
+1216539,2020-09-25,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Dubai International Cricket Stadium,,Group,Delhi Capitals,runs,44,175,131,3,7,Night,False
+1216540,2020-10-12,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Sharjah Cricket Stadium,,Group,Royal Challengers Bengaluru,runs,82,194,112,2,9,Night,False
+1216541,2020-10-25,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Rajasthan Royals,wickets,8,195,196,5,2,Day,False
+1216542,2020-10-08,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,runs,69,201,132,6,10,Night,False
+1216543,2020-10-14,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Dubai International Cricket Stadium,,Group,Delhi Capitals,runs,13,161,148,7,8,Night,False
+1216544,2020-10-25,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Dubai International Cricket Stadium,,Group,Chennai Super Kings,wickets,8,145,150,6,2,Night,False
+1216545,2020-09-26,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Kolkata Knight Riders,wickets,7,142,145,4,3,Night,False
+1216546,2020-10-20,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Dubai International Cricket Stadium,,Group,Punjab Kings,wickets,5,164,167,5,5,Night,False
+1216547,2020-09-28,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Dubai International Cricket Stadium,,Group,,,0,201,201,3,5,Night,False
+1237177,2020-11-05,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Dubai International Cricket Stadium,,Qualifier 1,Mumbai Indians,runs,57,200,143,5,8,Night,False
+1237178,2020-11-06,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sheikh Zayed Stadium,Abu Dhabi,Eliminator,Sunrisers Hyderabad,wickets,6,131,132,7,4,Night,False
+1237180,2020-11-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sheikh Zayed Stadium,Abu Dhabi,Qualifier 2,Delhi Capitals,runs,17,189,172,3,8,Night,False
+1237181,2020-11-10,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Dubai International Cricket Stadium,,Final,Mumbai Indians,wickets,5,156,157,7,5,Night,False
+1254058,2021-04-09,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Royal Challengers Bengaluru,wickets,2,159,160,9,8,Night,False
+1254059,2021-04-10,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Delhi Capitals,wickets,7,188,190,7,3,Night,False
+1254060,2021-04-11,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Kolkata Knight Riders,runs,10,187,177,6,5,Night,False
+1254061,2021-04-12,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Punjab Kings,runs,4,221,217,6,7,Night,False
+1254062,2021-04-13,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Mumbai Indians,runs,10,152,142,10,7,Night,False
+1254063,2021-04-14,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Royal Challengers Bengaluru,runs,6,149,143,8,9,Night,False
+1254064,2021-04-15,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,wickets,3,147,150,8,7,Night,False
+1254065,2021-04-16,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,wickets,6,106,107,8,4,Night,False
+1254066,2021-04-17,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Mumbai Indians,runs,13,150,137,5,10,Night,False
+1254067,2021-04-18,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Royal Challengers Bengaluru,runs,38,204,166,4,8,Day,False
+1254068,2021-04-18,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Delhi Capitals,wickets,6,195,198,4,4,Night,False
+1254069,2021-04-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,runs,45,188,143,9,9,Night,False
+1254070,2021-04-20,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Delhi Capitals,wickets,6,137,138,9,4,Night,False
+1254071,2021-04-21,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Sunrisers Hyderabad,wickets,9,120,121,10,1,Day,False
+1254072,2021-04-21,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,runs,18,220,202,3,10,Night,False
+1254073,2021-04-22,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,wickets,10,177,181,9,0,Night,False
+1254074,2021-04-23,Mumbai Indians,Punjab Kings,Punjab Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Punjab Kings,wickets,9,131,132,6,1,Night,False
+1254075,2021-04-24,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,wickets,6,133,134,9,4,Night,False
+1254076,2021-04-25,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,runs,69,191,122,4,9,Day,False
+1254077,2021-04-25,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,,,0,159,159,4,7,Night,False
+1254078,2021-04-26,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Kolkata Knight Riders,wickets,5,123,126,9,5,Night,False
+1254079,2021-04-27,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Royal Challengers Bengaluru,runs,1,171,170,5,4,Night,False
+1254080,2021-04-28,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,"Arun Jaitley Stadium, Delhi",Delhi,Group,Chennai Super Kings,wickets,7,171,173,3,3,Night,False
+1254081,2021-04-29,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Mumbai Indians,wickets,7,171,172,4,3,Day,False
+1254082,2021-04-29,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Delhi Capitals,wickets,7,154,156,6,3,Night,False
+1254083,2021-04-30,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Punjab Kings,runs,34,179,145,5,8,Night,False
+1254084,2021-05-01,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Mumbai Indians,wickets,4,218,219,4,6,Night,False
+1254085,2021-05-02,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Rajasthan Royals,runs,55,220,165,3,8,Day,False
+1254086,2021-05-02,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Delhi Capitals,wickets,7,166,167,6,3,Night,False
+1254087,2021-09-20,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Kolkata Knight Riders,wickets,9,92,94,10,1,Night,False
+1254088,2021-10-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Mumbai Indians,runs,42,235,193,9,8,Day,False
+1254089,2021-10-02,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Rajasthan Royals,wickets,7,189,190,4,3,Day,False
+1254090,2021-10-03,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Sharjah Cricket Stadium,Sharjah,Group,Royal Challengers Bengaluru,runs,6,164,158,7,6,Day,False
+1254091,2021-09-30,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sharjah Cricket Stadium,Sharjah,Group,Chennai Super Kings,wickets,6,134,139,7,4,Night,False
+1254092,2021-09-28,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sharjah Cricket Stadium,Sharjah,Group,Kolkata Knight Riders,wickets,3,127,130,9,7,Day,False
+1254093,2021-10-05,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Sharjah Cricket Stadium,Sharjah,Group,Mumbai Indians,wickets,8,90,94,9,2,Night,False
+1254094,2021-10-07,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Dubai International Cricket Stadium,Dubai,Group,Punjab Kings,wickets,6,134,139,6,4,Day,False
+1254095,2021-10-06,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Sunrisers Hyderabad,runs,4,141,137,7,6,Night,False
+1254096,2021-09-23,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Kolkata Knight Riders,wickets,7,155,159,6,3,Night,False
+1254097,2021-09-25,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Delhi Capitals,runs,33,154,121,6,6,Day,False
+1254098,2021-09-26,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Chennai Super Kings,wickets,2,171,172,6,8,Day,False
+1254099,2021-09-28,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Group,Mumbai Indians,wickets,6,135,137,6,4,Night,False
+1254100,2021-09-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Dubai International Cricket Stadium,Dubai,Group,Sunrisers Hyderabad,wickets,7,164,167,5,3,Night,False
+1254101,2021-10-08,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Dubai International Cricket Stadium,Dubai,Group,Royal Challengers Bengaluru,wickets,7,164,166,5,3,Night,False
+1254102,2021-10-01,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Dubai International Cricket Stadium,Dubai,Group,Punjab Kings,wickets,5,165,168,7,5,Night,False
+1254103,2021-09-29,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Dubai International Cricket Stadium,Dubai,Group,Royal Challengers Bengaluru,wickets,7,149,153,9,3,Night,False
+1254104,2021-09-19,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Dubai International Cricket Stadium,Dubai,Group,Chennai Super Kings,runs,20,156,136,7,8,Night,False
+1254105,2021-09-22,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,Dubai,Group,Delhi Capitals,wickets,8,134,139,9,2,Night,False
+1254106,2021-10-07,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Sharjah Cricket Stadium,Sharjah,Group,Kolkata Knight Riders,runs,86,171,85,4,10,Night,False
+1254107,2021-09-25,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sharjah Cricket Stadium,Sharjah,Group,Punjab Kings,runs,5,125,120,7,7,Night,False
+1254108,2021-09-26,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Dubai International Cricket Stadium,Dubai,Group,Royal Challengers Bengaluru,runs,54,165,111,6,10,Night,False
+1254109,2021-10-03,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,Dubai,Group,Kolkata Knight Riders,wickets,6,115,119,8,4,Night,False
+1254110,2021-10-04,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Dubai International Cricket Stadium,Dubai,Group,Delhi Capitals,wickets,3,136,139,5,7,Night,False
+1254111,2021-09-21,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Dubai International Cricket Stadium,Dubai,Group,Rajasthan Royals,runs,2,185,183,10,4,Night,False
+1254112,2021-10-02,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Sharjah Cricket Stadium,Sharjah,Group,Delhi Capitals,wickets,4,129,132,8,6,Night,False
+1254113,2021-09-24,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Sharjah Cricket Stadium,Sharjah,Group,Chennai Super Kings,wickets,6,156,157,6,4,Night,False
+1254114,2021-10-10,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Dubai International Cricket Stadium,Dubai,Qualifier 1,Chennai Super Kings,wickets,4,172,173,5,6,Night,False
+1254115,2021-10-11,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Sharjah Cricket Stadium,Sharjah,Eliminator,Kolkata Knight Riders,wickets,4,138,139,7,6,Night,False
+1254116,2021-10-13,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sharjah Cricket Stadium,Sharjah,Qualifier 2,Kolkata Knight Riders,wickets,3,135,136,5,7,Night,False
+1254117,2021-10-15,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Dubai International Cricket Stadium,Dubai,Final,Chennai Super Kings,runs,27,192,165,3,9,Night,False
+1304047,2022-03-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Kolkata Knight Riders,wickets,6,131,133,5,4,Night,False
+1304048,2022-03-27,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Delhi Capitals,wickets,4,177,179,5,6,Day,False
+1304049,2022-03-27,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Punjab Kings,wickets,5,205,208,2,5,Night,False
+1304050,2022-03-28,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Gujarat Titans,wickets,5,158,161,6,5,Night,False
+1304051,2022-03-29,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Rajasthan Royals,runs,61,210,149,6,7,Night,False
+1304052,2022-03-30,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,wickets,3,128,132,10,7,Night,False
+1304053,2022-03-31,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Lucknow Super Giants,wickets,6,210,211,7,4,Night,False
+1304054,2022-04-01,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Kolkata Knight Riders,wickets,6,137,141,10,4,Night,False
+1304055,2022-04-02,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Rajasthan Royals,runs,23,193,170,8,8,Day,False
+1304056,2022-04-02,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Gujarat Titans,runs,14,171,157,6,9,Night,False
+1304057,2022-04-03,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Punjab Kings,runs,54,180,126,8,10,Night,False
+1304058,2022-04-04,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Lucknow Super Giants,runs,12,169,157,7,9,Night,False
+1304059,2022-04-05,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,wickets,4,169,173,3,6,Night,False
+1304060,2022-04-06,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Kolkata Knight Riders,wickets,5,161,162,4,5,Night,False
+1304061,2022-04-07,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Lucknow Super Giants,wickets,6,149,155,3,4,Night,False
+1304062,2022-04-08,Punjab Kings,Gujarat Titans,Gujarat Titans,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Gujarat Titans,wickets,6,189,190,9,4,Night,False
+1304063,2022-04-09,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Sunrisers Hyderabad,wickets,8,154,155,7,2,Day,False
+1304064,2022-04-09,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Royal Challengers Bengaluru,wickets,7,151,152,6,3,Night,False
+1304065,2022-04-10,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Delhi Capitals,runs,44,215,171,5,10,Day,False
+1304066,2022-04-10,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,runs,3,165,162,6,8,Night,False
+1304067,2022-04-11,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Sunrisers Hyderabad,wickets,8,162,168,7,3,Night,False
+1304068,2022-04-12,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Chennai Super Kings,runs,23,216,193,4,9,Night,False
+1304069,2022-04-13,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Punjab Kings,runs,12,198,186,5,9,Night,False
+1304070,2022-04-14,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Gujarat Titans,runs,37,192,155,4,9,Night,False
+1304071,2022-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Sunrisers Hyderabad,wickets,7,175,176,8,3,Night,False
+1304072,2022-04-16,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Lucknow Super Giants,runs,18,199,181,4,9,Day,False
+1304073,2022-04-16,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,runs,16,189,173,5,7,Night,False
+1304074,2022-04-17,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Sunrisers Hyderabad,wickets,7,151,152,10,3,Day,False
+1304075,2022-04-17,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Gujarat Titans,wickets,3,169,170,5,7,Night,False
+1304076,2022-04-18,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,runs,7,217,210,5,10,Night,False
+1304077,2022-04-19,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,runs,18,181,163,6,8,Night,False
+1304078,2022-04-20,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Delhi Capitals,wickets,9,115,119,10,1,Night,False
+1304079,2022-04-21,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Chennai Super Kings,wickets,3,155,156,7,7,Night,False
+1304080,2022-04-22,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,runs,15,222,207,2,8,Night,False
+1304081,2022-04-23,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Gujarat Titans,runs,8,156,148,9,8,Day,False
+1304082,2022-04-23,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Sunrisers Hyderabad,wickets,9,68,72,10,1,Night,False
+1304083,2022-04-24,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Lucknow Super Giants,runs,36,168,132,6,8,Night,False
+1304084,2022-04-25,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Punjab Kings,runs,11,187,176,4,6,Night,False
+1304085,2022-04-26,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Rajasthan Royals,runs,29,144,115,8,10,Night,False
+1304086,2022-04-27,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Gujarat Titans,wickets,5,195,199,6,5,Night,False
+1304087,2022-04-28,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Delhi Capitals,wickets,4,146,150,9,6,Night,False
+1304088,2022-04-29,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Lucknow Super Giants,runs,20,153,133,8,8,Night,False
+1304089,2022-04-30,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,bat,"Brabourne Stadium, Mumbai",Mumbai,Group,Gujarat Titans,wickets,6,170,174,6,4,Day,False
+1304090,2022-04-30,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Mumbai Indians,wickets,5,158,161,6,5,Night,False
+1304091,2022-05-01,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Lucknow Super Giants,runs,6,195,189,3,7,Day,False
+1304092,2022-05-01,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Chennai Super Kings,runs,13,202,189,2,6,Night,False
+1304093,2022-05-02,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Kolkata Knight Riders,wickets,7,152,158,5,3,Night,False
+1304094,2022-05-03,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Punjab Kings,wickets,8,143,145,8,2,Night,False
+1304095,2022-05-04,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Royal Challengers Bengaluru,runs,13,173,160,8,8,Night,False
+1304096,2022-05-05,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Delhi Capitals,runs,21,207,186,3,8,Night,False
+1304097,2022-05-06,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Mumbai Indians,runs,5,177,172,6,5,Night,False
+1304098,2022-05-07,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,wickets,6,189,190,5,4,Day,False
+1304099,2022-05-07,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Lucknow Super Giants,runs,75,176,101,7,10,Night,False
+1304100,2022-05-08,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,runs,67,192,125,3,10,Day,False
+1304101,2022-05-08,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Chennai Super Kings,runs,91,208,117,6,10,Night,False
+1304102,2022-05-09,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Kolkata Knight Riders,runs,52,165,113,9,10,Night,False
+1304103,2022-05-10,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Gujarat Titans,runs,62,144,82,4,10,Night,False
+1304104,2022-05-11,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Delhi Capitals,wickets,8,160,161,6,2,Night,False
+1304105,2022-05-12,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,5,97,103,10,5,Night,False
+1304106,2022-05-13,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Punjab Kings,runs,54,209,155,9,9,Night,False
+1304107,2022-05-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,"Maharashtra Cricket Association Stadium, Pune",Pune,Group,Kolkata Knight Riders,runs,54,177,123,6,8,Night,False
+1304108,2022-05-15,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Gujarat Titans,wickets,7,133,137,5,3,Day,False
+1304109,2022-05-15,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,"Brabourne Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,runs,24,178,154,6,8,Night,False
+1304110,2022-05-16,Delhi Capitals,Punjab Kings,Punjab Kings,field,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Delhi Capitals,runs,17,159,142,7,9,Night,False
+1304111,2022-05-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Sunrisers Hyderabad,runs,3,193,190,6,7,Night,False
+1304112,2022-05-18,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Group,Lucknow Super Giants,runs,2,210,208,0,8,Night,False
+1304113,2022-05-19,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,wickets,8,168,170,5,2,Night,False
+1304114,2022-05-20,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,"Brabourne Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,wickets,5,150,151,6,5,Night,False
+1304115,2022-05-21,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,5,159,160,7,5,Night,False
+1304116,2022-05-22,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Punjab Kings,wickets,5,157,160,8,5,Night,False
+1312197,2022-05-24,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,"Eden Gardens, Kolkata",Kolkata,Qualifier 1,Gujarat Titans,wickets,7,188,191,6,3,Night,False
+1312198,2022-05-25,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,"Eden Gardens, Kolkata",Kolkata,Eliminator,Royal Challengers Bengaluru,runs,14,207,193,4,6,Night,False
+1312199,2022-05-27,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2,Rajasthan Royals,wickets,7,157,161,8,3,Night,False
+1312200,2022-05-29,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final,Gujarat Titans,wickets,7,130,133,9,3,Night,False
+1359475,2023-03-31,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,wickets,5,178,182,7,5,Night,False
+1359476,2023-04-01,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Group,Punjab Kings,runs,7,191,146,5,7,Day,True
+1359477,2023-04-01,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,runs,50,193,143,6,9,Night,False
+1359478,2023-04-02,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Rajasthan Royals,runs,72,203,131,5,8,Day,False
+1359479,2023-04-02,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,wickets,8,171,172,7,2,Night,False
+1359480,2023-04-03,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,runs,12,217,205,7,7,Night,False
+1359481,2023-04-04,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Gujarat Titans,wickets,6,162,163,8,4,Night,False
+1359482,2023-04-05,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Barsapara Cricket Stadium, Guwahati",Guwahati,Group,Punjab Kings,runs,5,197,192,5,7,Night,False
+1359483,2023-04-06,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,runs,81,204,123,7,10,Night,False
+1359484,2023-04-07,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,wickets,5,121,127,8,5,Night,False
+1359485,2023-04-08,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Barsapara Cricket Stadium, Guwahati",Guwahati,Group,Rajasthan Royals,runs,57,199,142,4,9,Day,False
+1359486,2023-04-08,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,wickets,7,157,159,8,3,Night,False
+1359487,2023-04-09,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Kolkata Knight Riders,wickets,3,204,207,4,7,Day,False
+1359488,2023-04-09,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,wickets,8,143,145,9,2,Night,False
+1359489,2023-04-10,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Lucknow Super Giants,wickets,1,212,213,2,9,Night,False
+1359490,2023-04-11,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Mumbai Indians,wickets,6,172,173,10,4,Night,False
+1359491,2023-04-12,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Rajasthan Royals,runs,3,175,172,8,6,Night,False
+1359492,2023-04-13,Punjab Kings,Gujarat Titans,Gujarat Titans,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Group,Gujarat Titans,wickets,6,153,154,8,4,Night,False
+1359493,2023-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Sunrisers Hyderabad,runs,23,228,205,4,7,Night,False
+1359494,2023-04-15,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,runs,23,174,151,6,9,Day,False
+1359495,2023-04-15,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Punjab Kings,wickets,2,159,161,8,8,Night,False
+1359496,2023-04-16,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,5,185,186,6,5,Day,False
+1359497,2023-04-16,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Rajasthan Royals,wickets,3,177,179,7,7,Night,False
+1359498,2023-04-17,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Chennai Super Kings,runs,8,226,218,6,8,Night,False
+1359499,2023-04-18,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Mumbai Indians,runs,14,192,178,5,10,Night,False
+1359500,2023-04-19,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Lucknow Super Giants,runs,10,154,144,7,6,Night,False
+1359501,2023-04-20,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Group,Royal Challengers Bengaluru,runs,24,174,150,4,10,Day,False
+1359502,2023-04-20,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,wickets,4,127,128,10,6,Night,False
+1359503,2023-04-21,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,7,134,138,7,3,Night,False
+1359504,2023-04-22,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Gujarat Titans,runs,7,135,128,6,7,Day,False
+1359505,2023-04-22,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Punjab Kings,runs,13,214,201,8,6,Night,False
+1359506,2023-04-23,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,runs,7,189,182,9,6,Day,False
+1359507,2023-04-23,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Chennai Super Kings,runs,49,235,186,4,8,Night,False
+1359508,2023-04-24,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Delhi Capitals,runs,7,144,137,9,6,Night,False
+1359509,2023-04-25,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,55,207,152,6,9,Night,False
+1359510,2023-04-26,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Kolkata Knight Riders,runs,21,200,179,5,8,Night,False
+1359511,2023-04-27,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Rajasthan Royals,runs,32,202,170,5,6,Night,False
+1359512,2023-04-28,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Group,Lucknow Super Giants,runs,56,257,201,5,10,Night,False
+1359513,2023-04-29,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,"Eden Gardens, Kolkata",Kolkata,Group,Gujarat Titans,wickets,7,179,180,7,3,Day,False
+1359514,2023-04-29,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,"Arun Jaitley Stadium, Delhi",Delhi,Group,Sunrisers Hyderabad,runs,9,197,188,6,6,Night,False
+1359515,2023-04-30,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Punjab Kings,wickets,4,200,201,4,6,Day,False
+1359516,2023-04-30,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,6,212,214,7,4,Night,False
+1359517,2023-05-01,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Royal Challengers Bengaluru,runs,18,126,108,9,10,Night,False
+1359518,2023-05-02,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Delhi Capitals,runs,5,130,125,8,6,Night,False
+1359519,2023-05-03,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,,,0,125,0,7,0,Day,False
+1359520,2023-05-03,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Group,Mumbai Indians,wickets,6,214,216,3,4,Night,False
+1359521,2023-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Kolkata Knight Riders,runs,5,171,166,9,8,Night,False
+1359522,2023-05-05,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Gujarat Titans,wickets,9,118,119,10,1,Night,False
+1359523,2023-05-06,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,6,139,140,8,4,Day,False
+1359524,2023-05-06,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,wickets,7,181,187,4,3,Night,False
+1359525,2023-05-07,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,56,227,171,2,7,Day,False
+1359526,2023-05-07,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Sunrisers Hyderabad,wickets,4,214,217,2,6,Night,False
+1359527,2023-05-08,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,wickets,5,179,182,7,5,Night,False
+1359528,2023-05-09,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,6,199,200,6,4,Night,False
+1359529,2023-05-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,runs,27,167,140,8,8,Night,False
+1359530,2023-05-11,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,"Eden Gardens, Kolkata",Kolkata,Group,Rajasthan Royals,wickets,9,149,151,8,1,Night,False
+1359531,2023-05-12,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,runs,27,218,191,5,8,Night,False
+1359532,2023-05-13,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Lucknow Super Giants,wickets,7,182,185,6,3,Day,False
+1359533,2023-05-13,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Punjab Kings,runs,31,167,136,7,8,Night,False
+1359534,2023-05-14,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Royal Challengers Bengaluru,runs,112,171,59,5,10,Day,False
+1359535,2023-05-14,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Kolkata Knight Riders,wickets,6,144,147,6,4,Night,False
+1359536,2023-05-15,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,34,188,154,9,9,Night,False
+1359537,2023-05-16,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,runs,5,177,172,4,5,Night,False
+1359538,2023-05-17,Delhi Capitals,Punjab Kings,Punjab Kings,field,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Group,Delhi Capitals,runs,15,213,198,2,8,Night,False
+1359539,2023-05-18,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Royal Challengers Bengaluru,wickets,8,186,187,5,2,Night,False
+1359540,2023-05-19,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Group,Rajasthan Royals,wickets,4,187,189,5,6,Night,False
+1359541,2023-05-20,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"Arun Jaitley Stadium, Delhi",Delhi,Group,Chennai Super Kings,runs,77,223,146,3,9,Day,False
+1359542,2023-05-20,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Lucknow Super Giants,runs,1,176,175,8,7,Night,False
+1359543,2023-05-21,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,8,200,201,5,2,Day,False
+1359544,2023-05-21,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Gujarat Titans,wickets,6,197,198,5,4,Night,False
+1370350,2023-05-23,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Qualifier 1,Chennai Super Kings,runs,15,172,157,7,10,Night,False
+1370351,2023-05-24,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Eliminator,Mumbai Indians,runs,81,182,101,8,10,Night,False
+1370352,2023-05-26,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2,Gujarat Titans,runs,62,233,171,3,10,Night,False
+1370353,2023-05-29,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final,Chennai Super Kings,wickets,5,214,171,4,5,Night,True
+1422119,2024-03-22,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,6,173,176,6,4,Night,False
+1422120,2024-03-23,Delhi Capitals,Punjab Kings,Punjab Kings,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Punjab Kings,wickets,4,174,177,9,6,Day,False
+1422121,2024-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,runs,4,208,204,7,7,Night,False
+1422122,2024-03-24,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Rajasthan Royals,runs,20,193,173,4,6,Day,False
+1422123,2024-03-24,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,6,168,162,6,9,Night,False
+1422124,2024-03-25,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,wickets,4,176,178,6,6,Night,False
+1422125,2024-03-26,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,runs,63,206,143,6,8,Night,False
+1422126,2024-03-27,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,runs,31,277,246,3,5,Night,False
+1422127,2024-03-28,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Rajasthan Royals,runs,12,185,173,5,5,Night,False
+1422128,2024-03-29,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Kolkata Knight Riders,wickets,7,182,186,6,3,Night,False
+1422129,2024-03-30,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,runs,21,199,178,8,5,Night,False
+1422130,2024-03-31,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,wickets,7,162,168,8,3,Day,False
+1422131,2024-03-31,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Group,Delhi Capitals,runs,20,191,171,5,6,Night,False
+1422132,2024-04-01,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Rajasthan Royals,wickets,6,125,127,9,4,Night,False
+1422133,2024-04-02,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Lucknow Super Giants,runs,28,181,153,5,10,Night,False
+1422134,2024-04-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Group,Kolkata Knight Riders,runs,106,272,166,7,10,Night,False
+1422135,2024-04-04,Gujarat Titans,Punjab Kings,Punjab Kings,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Punjab Kings,wickets,3,199,200,4,7,Night,False
+1422136,2024-04-05,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,wickets,6,165,166,5,4,Night,False
+1422137,2024-04-06,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Rajasthan Royals,wickets,6,183,189,3,4,Night,False
+1422138,2024-04-07,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,runs,29,234,205,5,8,Day,False
+1422139,2024-04-07,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,runs,33,163,130,5,10,Night,False
+1426260,2024-04-08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,7,137,141,9,3,Night,False
+1426261,2024-04-09,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Sunrisers Hyderabad,runs,2,182,180,9,6,Night,False
+1426262,2024-04-10,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Gujarat Titans,wickets,3,196,199,3,7,Night,False
+1426263,2024-04-11,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,7,196,199,8,3,Night,False
+1426264,2024-04-12,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Delhi Capitals,wickets,6,167,170,7,4,Night,False
+1426265,2024-04-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Rajasthan Royals,wickets,3,147,152,8,7,Night,False
+1426266,2024-04-14,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,wickets,8,161,162,7,2,Day,False
+1426267,2024-04-14,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Chennai Super Kings,runs,20,206,186,4,6,Night,False
+1426268,2024-04-15,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Sunrisers Hyderabad,runs,25,287,262,3,7,Night,False
+1426269,2024-04-16,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,"Eden Gardens, Kolkata",Kolkata,Group,Rajasthan Royals,wickets,2,223,224,6,8,Night,False
+1426270,2024-04-17,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Delhi Capitals,wickets,6,89,92,10,4,Night,False
+1426271,2024-04-18,Mumbai Indians,Punjab Kings,Punjab Kings,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Mumbai Indians,runs,9,192,183,7,10,Night,False
+1426272,2024-04-19,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,wickets,8,176,180,6,2,Night,False
+1426273,2024-04-20,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Sunrisers Hyderabad,runs,67,266,199,7,10,Night,False
+1426274,2024-04-21,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,runs,1,222,221,6,10,Day,False
+1426275,2024-04-21,Punjab Kings,Gujarat Titans,Punjab Kings,bat,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Gujarat Titans,wickets,3,142,146,10,7,Night,False
+1426276,2024-04-22,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Rajasthan Royals,wickets,9,179,183,9,1,Night,False
+1426277,2024-04-23,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Lucknow Super Giants,wickets,6,210,213,4,4,Night,False
+1426278,2024-04-24,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,runs,4,224,220,4,8,Night,False
+1426279,2024-04-25,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Royal Challengers Bengaluru,runs,35,206,171,7,8,Night,False
+1426280,2024-04-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,"Eden Gardens, Kolkata",Kolkata,Group,Punjab Kings,wickets,8,261,262,6,2,Night,False
+1426281,2024-04-27,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,runs,10,257,247,4,9,Day,False
+1426282,2024-04-27,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Rajasthan Royals,wickets,7,196,199,5,3,Night,False
+1426283,2024-04-28,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Royal Challengers Bengaluru,wickets,9,200,206,3,1,Day,False
+1426284,2024-04-28,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,runs,78,212,134,3,10,Night,False
+1426285,2024-04-29,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,wickets,7,153,157,9,3,Night,False
+1426286,2024-04-30,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,wickets,4,144,145,7,6,Night,False
+1426287,2024-05-01,Chennai Super Kings,Punjab Kings,Punjab Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Punjab Kings,wickets,7,162,163,7,3,Night,False
+1426288,2024-05-02,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,runs,1,201,200,3,7,Night,False
+1426289,2024-05-03,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Kolkata Knight Riders,runs,24,169,145,10,10,Night,False
+1426290,2024-05-04,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,wickets,4,147,152,10,6,Night,False
+1426291,2024-05-05,Chennai Super Kings,Punjab Kings,Punjab Kings,field,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Group,Chennai Super Kings,runs,28,167,139,9,9,Day,False
+1426292,2024-05-05,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Kolkata Knight Riders,runs,98,235,137,6,10,Night,False
+1426293,2024-05-06,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,7,173,174,8,3,Night,False
+1426294,2024-05-07,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,runs,20,221,201,8,8,Night,False
+1426295,2024-05-08,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,wickets,10,165,167,4,0,Night,False
+1426296,2024-05-09,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Group,Royal Challengers Bengaluru,runs,60,241,181,7,10,Night,False
+1426297,2024-05-10,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,35,231,196,3,8,Night,False
+1426298,2024-05-11,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,runs,18,157,139,7,8,Night,False
+1426299,2024-05-12,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,5,141,145,5,5,Day,False
+1426300,2024-05-12,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,runs,47,187,140,9,10,Night,False
+1426302,2024-05-14,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Delhi Capitals,runs,19,208,189,4,9,Night,False
+1426303,2024-05-15,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,"Barsapara Cricket Stadium, Guwahati",Guwahati,Group,Punjab Kings,wickets,5,144,145,9,5,Night,False
+1426305,2024-05-17,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Lucknow Super Giants,runs,18,214,196,6,6,Night,False
+1426306,2024-05-18,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,runs,27,218,191,5,7,Night,False
+1426307,2024-05-19,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,wickets,4,214,215,5,6,Night,False
+1426309,2024-05-21,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 1,Kolkata Knight Riders,wickets,8,159,164,10,2,Night,False
+1426310,2024-05-22,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Eliminator,Rajasthan Royals,wickets,4,172,174,8,6,Night,False
+1426311,2024-05-24,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Qualifier 2,Sunrisers Hyderabad,runs,36,175,139,9,7,Night,False
+1426312,2024-05-26,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Final,Kolkata Knight Riders,wickets,8,113,114,10,2,Night,False
+1473438,2025-03-22,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Eden Gardens, Kolkata",Kolkata,Group,Royal Challengers Bengaluru,wickets,7,174,177,8,3,Night,False
+1473439,2025-03-23,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,runs,44,286,242,6,6,Day,False
+1473440,2025-03-23,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Chennai Super Kings,wickets,4,155,158,9,6,Night,False
+1473441,2025-03-24,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Group,Delhi Capitals,wickets,1,209,211,8,9,Night,False
+1473442,2025-03-25,Punjab Kings,Gujarat Titans,Gujarat Titans,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Punjab Kings,runs,11,243,232,5,5,Night,False
+1473443,2025-03-26,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,"Barsapara Cricket Stadium, Guwahati",Guwahati,Group,Kolkata Knight Riders,wickets,8,151,153,9,2,Night,False
+1473444,2025-03-27,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Lucknow Super Giants,wickets,5,190,193,9,5,Night,False
+1473445,2025-03-28,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Royal Challengers Bengaluru,runs,50,196,146,7,8,Night,False
+1473446,2025-03-29,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,36,196,160,8,6,Night,False
+1473447,2025-03-30,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Group,Delhi Capitals,wickets,7,163,166,10,3,Day,False
+1473448,2025-03-30,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,"Barsapara Cricket Stadium, Guwahati",Guwahati,Group,Rajasthan Royals,runs,6,182,176,9,6,Night,False
+1473449,2025-03-31,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,8,116,121,10,2,Night,False
+1473450,2025-04-01,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Punjab Kings,wickets,8,171,177,7,2,Night,False
+1473451,2025-04-02,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Gujarat Titans,wickets,8,169,170,8,2,Night,False
+1473452,2025-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"Eden Gardens, Kolkata",Kolkata,Group,Kolkata Knight Riders,runs,80,200,120,6,10,Night,False
+1473453,2025-04-04,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,runs,12,203,191,8,5,Night,False
+1473454,2025-04-05,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Delhi Capitals,runs,25,183,158,6,5,Day,False
+1473455,2025-04-05,Rajasthan Royals,Punjab Kings,Punjab Kings,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Rajasthan Royals,runs,50,205,155,4,9,Night,False
+1473456,2025-04-08,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Lucknow Super Giants,runs,4,238,234,3,7,Day,False
+1473457,2025-04-06,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Gujarat Titans,wickets,7,152,153,8,3,Night,False
+1473458,2025-04-07,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Royal Challengers Bengaluru,runs,12,221,209,5,9,Night,False
+1473459,2025-04-08,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Punjab Kings,runs,18,219,201,6,5,Night,False
+1473460,2025-04-09,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,runs,58,217,159,6,10,Night,False
+1473461,2025-04-10,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Delhi Capitals,wickets,6,163,169,7,4,Night,False
+1473462,2025-04-11,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Kolkata Knight Riders,wickets,8,103,107,9,2,Night,False
+1473463,2025-04-12,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Lucknow Super Giants,wickets,6,180,186,6,4,Day,False
+1473464,2025-04-12,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Sunrisers Hyderabad,wickets,8,245,247,6,2,Night,False
+1473465,2025-04-13,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Royal Challengers Bengaluru,wickets,9,173,175,4,1,Day,False
+1473466,2025-04-13,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,Mumbai Indians,runs,12,205,193,5,10,Night,False
+1473467,2025-04-14,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Chennai Super Kings,wickets,5,166,168,7,5,Night,False
+1473468,2025-04-15,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Punjab Kings,runs,16,111,95,10,10,Night,False
+1473469,2025-04-16,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,"Arun Jaitley Stadium, Delhi",Delhi,Group,,,0,188,188,5,5,Night,False
+1473470,2025-04-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,4,162,166,5,6,Night,False
+1473471,2025-04-18,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Punjab Kings,wickets,5,95,98,9,5,Night,False
+1473472,2025-04-19,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Group,Gujarat Titans,wickets,7,203,204,8,3,Day,False
+1473473,2025-04-19,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,Group,Lucknow Super Giants,runs,2,180,178,5,5,Night,False
+1473474,2025-04-20,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Group,Royal Challengers Bengaluru,wickets,7,157,159,6,3,Day,False
+1473475,2025-04-20,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"Wankhede Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,9,176,177,5,1,Night,False
+1473476,2025-04-21,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,field,"Eden Gardens, Kolkata",Kolkata,Group,Gujarat Titans,runs,39,198,159,3,8,Night,False
+1473477,2025-04-22,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Group,Delhi Capitals,wickets,8,159,161,6,2,Night,False
+1473478,2025-04-23,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Group,Mumbai Indians,wickets,7,143,146,8,3,Night,False
+1473479,2025-04-24,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Group,Royal Challengers Bengaluru,runs,11,205,194,5,9,Night,False
+1473480,2025-04-25,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Group,Sunrisers Hyderabad,wickets,5,154,155,10,5,Night,False
+1473481,2025-04-26,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,"Eden Gardens, Kolkata",Kolkata,Group,,,0,201,7,4,0,Night,False
+335982,2008-04-18,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Kolkata Knight Riders,runs,140,222,82,3,10,Night,False
+335983,2008-04-19,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Chennai Super Kings,runs,33,240,207,5,4,Day,False
+335984,2008-04-19,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,9,129,132,8,1,Night,False
+335985,2008-04-20,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Royal Challengers Bengaluru,wickets,5,165,166,7,5,Night,False
+335987,2008-04-21,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,6,166,168,8,4,Night,False
+335989,2008-04-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,6,208,202,5,7,Night,False
+335991,2008-04-25,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,66,182,116,10,9,Night,False
+335992,2008-04-26,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,M Chinnaswamy Stadium,Bangalore,Group,Rajasthan Royals,wickets,7,135,138,8,3,Day,False
+335993,2008-04-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,9,147,152,9,1,Night,False
+335995,2008-04-27,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,4,158,162,8,6,Night,False
+335996,2008-04-28,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,M Chinnaswamy Stadium,Bangalore,Group,Chennai Super Kings,runs,13,178,165,5,10,Night,False
+335997,2008-04-29,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Mumbai Indians,wickets,7,137,138,8,3,Night,False
+335998,2008-04-30,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,10,191,181,5,5,Night,False
+336000,2008-05-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,45,196,151,7,10,Night,False
+336001,2008-05-02,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Delhi Capitals,wickets,8,169,172,6,2,Night,False
+336003,2008-05-03,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,9,178,169,6,6,Night,False
+336004,2008-05-04,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Dr DY Patil Sports Academy,Mumbai,Group,Mumbai Indians,runs,29,162,133,8,10,Day,False
+336005,2008-05-04,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,8,109,110,10,2,Night,False
+336006,2008-05-05,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Punjab Kings,wickets,6,126,127,10,4,Night,False
+336008,2008-05-07,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Dr DY Patil Sports Academy,Mumbai,Group,Mumbai Indians,wickets,7,103,104,10,3,Night,False
+336009,2008-05-08,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,Delhi,Group,Chennai Super Kings,wickets,4,187,188,5,6,Day,False
+336010,2008-05-08,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,5,129,124,7,4,Night,False
+336012,2008-05-28,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,wickets,9,122,126,9,1,Day,False
+336013,2008-05-10,Chennai Super Kings,Punjab Kings,Punjab Kings,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,18,181,163,4,9,Night,False
+336015,2008-05-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,3,156,159,7,7,Night,False
+336016,2008-05-12,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,9,143,144,8,1,Night,False
+336017,2008-05-13,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,23,133,110,6,10,Night,False
+336018,2008-05-14,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,9,156,158,6,1,Night,False
+336019,2008-05-28,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,41,221,180,3,7,Night,False
+336021,2008-05-16,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,8,67,68,10,2,Night,False
+336022,2008-05-17,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Punjab Kings,runs,6,118,94,4,3,Day,True
+336023,2008-05-17,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,65,197,132,1,9,Night,False
+336025,2008-05-18,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Chennai Super Kings,runs,3,149,55,5,0,Night,True
+336026,2008-05-19,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,M Chinnaswamy Stadium,Bangalore,Group,Delhi Capitals,wickets,5,154,158,7,5,Night,False
+336027,2008-05-20,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,Kolkata,Group,Rajasthan Royals,wickets,6,147,150,8,4,Night,False
+336028,2008-05-21,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Punjab Kings,runs,1,189,188,4,10,Day,False
+336029,2008-05-21,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Royal Challengers Bengaluru,runs,14,126,112,8,8,Night,False
+336032,2008-05-24,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,5,176,179,8,5,Day,False
+336033,2008-05-24,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Rajasthan Royals,runs,10,211,201,5,7,Night,False
+336035,2008-05-25,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,3,174,175,6,7,Night,False
+336036,2008-05-26,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,5,145,146,7,5,Night,False
+336038,2008-05-30,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Semi Final,Rajasthan Royals,runs,105,192,87,9,10,Night,False
+336039,2008-05-31,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Wankhede Stadium,Mumbai,Semi Final,Chennai Super Kings,wickets,9,112,116,8,1,Night,False
+336040,2008-06-01,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Dr DY Patil Sports Academy,Mumbai,Final,Rajasthan Royals,wickets,3,163,164,5,7,Night,False
+392181,2009-04-18,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Newlands,Cape Town,Group,Mumbai Indians,runs,19,165,146,7,7,Day,False
+392182,2009-04-18,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Newlands,Cape Town,Group,Royal Challengers Bengaluru,runs,75,133,58,8,10,Night,False
+392183,2009-04-19,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Newlands,Cape Town,Group,Delhi Capitals,wickets,10,104,58,7,0,Night,True
+392185,2009-04-20,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,St George's Park,Port Elizabeth,Group,Chennai Super Kings,runs,92,179,87,5,10,Night,False
+392186,2009-04-21,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kingsmead,Durban,Group,Kolkata Knight Riders,runs,11,158,79,6,1,Night,True
+392189,2009-04-23,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Kingsmead,Durban,Group,Delhi Capitals,runs,9,189,180,5,9,Day,False
+392190,2009-04-23,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Newlands,Cape Town,Group,,,0,150,150,6,8,Night,False
+392191,2009-04-24,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Kingsmead,Durban,Group,Punjab Kings,wickets,7,168,173,9,3,Night,False
+392194,2009-04-26,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,St George's Park,Port Elizabeth,Group,Delhi Capitals,wickets,6,149,150,7,4,Day,False
+392195,2009-04-26,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Newlands,Cape Town,Group,Punjab Kings,runs,27,139,112,6,7,Night,False
+392197,2009-04-27,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,St George's Park,Port Elizabeth,Group,Mumbai Indians,runs,92,187,95,6,9,Night,False
+392198,2009-04-28,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,SuperSport Park,Centurion,Group,Rajasthan Royals,wickets,5,143,147,7,5,Night,False
+392199,2009-04-29,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kingsmead,Durban,Group,Royal Challengers Bengaluru,wickets,5,139,143,6,5,Day,False
+392200,2009-04-29,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Kingsmead,Durban,Group,Punjab Kings,runs,3,119,116,8,7,Night,False
+392202,2009-04-30,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,SuperSport Park,Centurion,Group,Chennai Super Kings,runs,38,164,126,5,9,Night,False
+392203,2009-05-01,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Buffalo Park,East London,Group,Mumbai Indians,runs,9,148,139,6,6,Day,False
+392204,2009-05-01,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Kingsmead,Durban,Group,Royal Challengers Bengaluru,runs,8,145,137,9,7,Night,False
+392206,2009-05-02,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,New Wanderers Stadium,Johannesburg,Group,Chennai Super Kings,runs,18,163,145,10,8,Night,False
+392207,2009-05-03,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,St George's Park,Port Elizabeth,Group,Punjab Kings,wickets,6,153,154,3,4,Day,False
+392208,2009-05-03,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,New Wanderers Stadium,Johannesburg,Group,Royal Challengers Bengaluru,wickets,9,149,150,4,1,Night,False
+392210,2009-05-05,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Kingsmead,Durban,Group,Rajasthan Royals,runs,78,211,133,4,8,Day,False
+392211,2009-05-05,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kingsmead,Durban,Group,Delhi Capitals,wickets,9,154,157,3,1,Night,False
+392213,2009-05-07,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,SuperSport Park,Centurion,Group,Rajasthan Royals,wickets,7,105,107,10,3,Day,False
+392214,2009-05-07,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,SuperSport Park,Centurion,Group,Chennai Super Kings,runs,12,185,174,3,3,Night,True
+392215,2009-05-08,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Buffalo Park,East London,Group,Delhi Capitals,wickets,7,116,118,10,3,Night,False
+392217,2009-05-09,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,De Beers Diamond Oval,Kimberley,Group,Chennai Super Kings,wickets,7,140,141,7,3,Night,False
+392218,2009-05-10,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,St George's Park,Port Elizabeth,Group,Mumbai Indians,runs,16,157,141,2,7,Day,False
+392219,2009-05-10,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,New Wanderers Stadium,Johannesburg,Group,Delhi Capitals,wickets,7,123,125,8,3,Night,False
+392221,2009-05-12,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,SuperSport Park,Centurion,Group,Royal Challengers Bengaluru,wickets,6,173,176,4,4,Day,False
+392222,2009-05-12,Punjab Kings,Mumbai Indians,Punjab Kings,bat,SuperSport Park,Centurion,Group,Mumbai Indians,wickets,8,119,122,9,2,Night,False
+392224,2009-05-14,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Kingsmead,Durban,Group,Royal Challengers Bengaluru,wickets,2,129,132,10,8,Day,False
+392225,2009-05-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Kingsmead,Durban,Group,Rajasthan Royals,runs,2,145,143,7,10,Night,False
+392226,2009-05-15,Delhi Capitals,Punjab Kings,Punjab Kings,field,OUTsurance Oval,Bloemfontein,Group,Punjab Kings,wickets,6,120,123,9,4,Night,False
+392227,2009-05-16,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,St George's Park,Port Elizabeth,Group,Chennai Super Kings,wickets,7,147,151,5,3,Night,False
+392230,2009-05-17,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,OUTsurance Oval,Bloemfontein,Group,Delhi Capitals,runs,14,150,136,3,9,Night,False
+392231,2009-05-18,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,SuperSport Park,Centurion,Group,Kolkata Knight Riders,wickets,7,188,189,3,3,Night,False
+392232,2009-05-19,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,New Wanderers Stadium,Johannesburg,Group,Royal Challengers Bengaluru,wickets,7,134,135,7,3,Night,False
+392233,2009-05-20,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kingsmead,Durban,Group,Kolkata Knight Riders,wickets,4,101,102,9,6,Day,False
+392234,2009-05-20,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Kingsmead,Durban,Group,Chennai Super Kings,runs,24,116,92,9,8,Night,False
+392235,2009-05-21,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,SuperSport Park,Centurion,Group,Delhi Capitals,wickets,4,165,166,8,6,Night,False
+392238,2009-05-23,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,New Wanderers Stadium,Johannesburg,Semi Final,Royal Challengers Bengaluru,wickets,6,146,149,5,4,Night,False
+419107,2010-03-13,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Brabourne Stadium,Mumbai,Group,Mumbai Indians,runs,4,212,208,7,7,Day,False
+419108,2010-03-13,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Delhi Capitals,wickets,5,142,146,9,5,Night,False
+419109,2010-03-14,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,7,135,136,7,3,Night,False
+419111,2010-03-15,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Delhi Capitals,wickets,6,141,142,6,4,Night,False
+419112,2010-03-16,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,8,203,204,3,2,Day,False
+419113,2010-03-16,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Eden Gardens,Kolkata,Group,Chennai Super Kings,runs,55,164,109,3,10,Night,False
+419114,2010-03-17,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Mumbai Indians,runs,98,218,120,7,9,Night,False
+419115,2010-03-18,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,10,92,93,10,0,Night,False
+419116,2010-03-19,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Chennai Super Kings,wickets,5,185,190,6,5,Night,False
+419118,2010-03-20,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,runs,34,168,134,7,5,Day,False
+419119,2010-03-20,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Brabourne Stadium,Mumbai,Group,Royal Challengers Bengaluru,wickets,7,151,155,9,3,Night,False
+419121,2010-03-21,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,,,0,136,136,8,7,Night,False
+419122,2010-03-22,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Brabourne Stadium,Mumbai,Group,Mumbai Indians,wickets,7,155,156,3,3,Night,False
+419123,2010-03-23,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,36,171,135,5,7,Night,False
+419124,2010-03-24,Punjab Kings,Rajasthan Royals,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Rajasthan Royals,runs,31,183,152,5,10,Night,False
+419125,2010-03-25,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"Brabourne Stadium, Mumbai",Mumbai,Group,Mumbai Indians,wickets,5,180,181,2,5,Day,False
+419127,2010-03-27,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Kolkata Knight Riders,runs,39,183,144,5,6,Night,False
+419128,2010-03-25,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Delhi Capitals,runs,17,183,166,4,9,Night,False
+419129,2010-03-28,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,runs,17,177,160,8,6,Night,False
+419131,2010-03-29,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,40,177,137,4,9,Night,False
+419132,2010-03-30,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Brabourne Stadium,Mumbai,Group,Mumbai Indians,wickets,4,163,164,10,6,Night,False
+419133,2010-03-31,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,5,161,162,4,5,Day,False
+419134,2010-03-31,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,67,188,121,6,10,Night,False
+419136,2010-04-02,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Royal Challengers Bengaluru,wickets,6,181,184,5,4,Night,False
+419137,2010-04-03,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,23,246,223,5,5,Night,False
+419139,2010-04-04,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Punjab Kings,wickets,8,200,204,3,2,Day,False
+419140,2010-04-04,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,37,184,147,5,9,Night,False
+419142,2010-04-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,24,165,141,4,9,Night,False
+419143,2010-04-07,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,9,153,157,6,1,Day,False
+419144,2010-04-07,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,14,181,167,3,8,Night,False
+419146,2010-04-09,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,6,154,158,9,4,Night,False
+419148,2010-04-10,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,7,160,162,9,3,Night,False
+419149,2010-04-11,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Punjab Kings,wickets,7,111,112,10,3,Day,False
+419150,2010-04-11,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Mumbai Indians,runs,37,174,137,5,8,Night,False
+419152,2010-04-13,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Brabourne Stadium,Mumbai,Group,Mumbai Indians,runs,39,183,144,4,7,Day,False
+419153,2010-04-13,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,9,139,143,8,1,Night,False
+419154,2010-04-14,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Royal Challengers Bengaluru,wickets,5,130,132,6,5,Night,False
+419155,2010-04-15,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Delhi Capitals,wickets,6,112,113,9,4,Night,False
+419157,2010-04-17,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,runs,57,191,134,4,9,Day,False
+419158,2010-04-17,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,132,133,9,2,Night,False
+419159,2010-04-18,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Chennai Super Kings,wickets,6,192,195,3,4,Night,False
+419161,2010-04-19,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,9,133,135,8,1,Night,False
+419162,2010-04-21,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Dr DY Patil Sports Academy,Mumbai,Semi Final,Mumbai Indians,runs,35,184,149,5,9,Night,False
+419165,2010-04-25,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Dr DY Patil Sports Academy,Mumbai,Final,Chennai Super Kings,runs,22,168,146,5,9,Night,False
+501198,2011-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,2,153,151,4,7,Night,False
+501201,2011-04-10,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Mumbai Indians,wickets,8,95,99,10,2,Night,False
+501204,2011-04-12,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,6,151,152,6,4,Day,False
+501205,2011-04-12,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,wickets,9,140,143,4,1,Night,False
+501206,2011-04-13,Punjab Kings,Chennai Super Kings,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,6,188,193,4,4,Night,False
+501209,2011-04-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh Stadium,Jaipur,Group,Kolkata Knight Riders,wickets,9,159,160,4,1,Night,False
+501211,2011-04-16,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,21,183,162,5,7,Night,False
+501214,2011-04-17,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,81,85,10,2,Night,False
+501220,2011-04-21,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,48,195,147,7,7,Night,False
+501221,2011-04-22,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,8,164,156,4,9,Day,False
+501222,2011-04-22,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Eden Gardens,Kolkata,Group,Royal Challengers Bengaluru,wickets,9,171,175,5,1,Night,False
+501223,2011-04-23,Delhi Capitals,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,29,231,202,4,6,Night,False
+501227,2011-04-26,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Feroz Shah Kotla,Delhi,Group,Royal Challengers Bengaluru,wickets,3,160,161,6,7,Night,False
+501230,2011-04-28,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Kolkata Knight Riders,runs,17,148,131,7,9,Night,False
+501231,2011-04-29,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,7,94,95,8,3,Night,False
+501234,2011-04-30,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,119,120,6,2,Night,False
+501237,2011-05-02,Mumbai Indians,Punjab Kings,Punjab Kings,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,23,159,136,5,8,Night,False
+501240,2011-05-04,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,8,147,149,6,2,Night,False
+501244,2011-05-06,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,85,205,120,6,9,Night,False
+501245,2011-05-07,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,10,114,61,4,2,Day,True
+501246,2011-05-07,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,32,178,146,4,10,Night,False
+501249,2011-05-09,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Chennai Super Kings,runs,63,196,133,3,10,Night,False
+501251,2011-05-10,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,76,163,87,8,10,Night,False
+501252,2011-05-11,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sawai Mansingh Stadium,Jaipur,Group,Royal Challengers Bengaluru,wickets,9,146,151,6,1,Night,False
+501253,2011-05-12,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,18,176,158,4,6,Night,False
+501255,2011-05-14,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,4,89,105,4,6,Night,True
+501257,2011-05-15,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Punjab Kings,runs,29,170,141,6,8,Night,False
+501260,2011-05-17,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Punjab Kings,runs,111,232,121,2,10,Night,False
+501263,2011-05-20,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Rajasthan Royals,wickets,10,133,134,5,0,Night,False
+501266,2011-05-22,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,8,128,129,8,2,Day,False
+501267,2011-05-22,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Eden Gardens,Kolkata,Group,Mumbai Indians,wickets,5,175,178,7,5,Night,False
+501268,2011-05-24,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Qualifier 1,Chennai Super Kings,wickets,6,175,177,4,4,Night,False
+501269,2011-05-25,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede Stadium,Mumbai,Elimination Final,Mumbai Indians,wickets,4,147,148,7,6,Night,False
+501270,2011-05-27,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,"MA Chidambaram Stadium, Chepauk",Chennai,Qualifier 2,Royal Challengers Bengaluru,runs,43,185,142,4,8,Night,False
+501271,2011-05-28,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Final,Chennai Super Kings,runs,58,205,147,5,8,Night,False
+548306,2012-04-04,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Mumbai Indians,wickets,8,112,115,10,3,Night,False
+548307,2012-04-05,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Eden Gardens,Kolkata,Group,Delhi Capitals,wickets,8,97,100,9,2,Night,False
+548309,2012-04-06,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,31,191,160,4,9,Night,False
+548310,2012-04-07,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,20,157,137,8,7,Night,False
+548312,2012-04-08,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,22,164,142,5,10,Night,False
+548315,2012-04-10,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Kolkata Knight Riders,runs,42,165,123,8,9,Day,False
+548316,2012-04-10,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,8,110,111,8,2,Night,False
+548317,2012-04-11,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,27,197,170,6,10,Night,False
+548318,2012-04-12,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,5,205,208,8,5,Night,False
+548320,2012-04-13,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,5,131,137,5,5,Night,False
+548323,2012-04-15,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Punjab Kings,runs,2,134,132,9,7,Day,False
+548324,2012-04-15,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,M Chinnaswamy Stadium,Bangalore,Group,Rajasthan Royals,runs,59,195,136,2,10,Night,False
+548325,2012-04-16,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Group,Delhi Capitals,wickets,7,92,93,10,3,Night,False
+548328,2012-04-18,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Kolkata Knight Riders,wickets,8,124,127,7,2,Night,False
+548331,2012-04-20,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Royal Challengers Bengaluru,wickets,5,163,166,6,5,Night,False
+548332,2012-04-21,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,7,146,147,4,3,Night,False
+548334,2012-04-22,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Punjab Kings,wickets,6,163,164,6,4,Night,False
+548336,2012-04-23,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Royal Challengers Bengaluru,runs,46,189,143,3,7,Night,False
+548339,2012-04-25,Punjab Kings,Mumbai Indians,Punjab Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Mumbai Indians,wickets,4,168,171,3,6,Night,False
+548342,2012-04-27,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,37,207,170,5,9,Night,False
+548343,2012-04-28,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Punjab Kings,runs,7,156,149,8,8,Day,False
+548344,2012-04-28,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,47,190,143,4,6,Night,False
+548345,2012-04-29,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,1,152,151,6,3,Night,False
+548347,2012-04-30,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Kolkata Knight Riders,wickets,5,139,140,5,5,Night,False
+548349,2012-05-01,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Delhi Capitals,wickets,6,141,144,6,4,Night,False
+548350,2012-05-02,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Punjab Kings,wickets,4,158,163,5,6,Night,False
+548354,2012-05-05,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Rajasthan Royals,runs,43,177,134,6,8,Night,False
+548355,2012-05-06,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,2,173,174,8,8,Night,False
+548357,2012-05-07,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Kolkata Knight Riders,wickets,6,153,154,9,4,Night,False
+548360,2012-05-09,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Wankhede Stadium,Mumbai,Group,Royal Challengers Bengaluru,wickets,9,141,142,6,1,Night,False
+548361,2012-05-10,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh Stadium,Jaipur,Group,Chennai Super Kings,wickets,4,126,127,6,6,Night,False
+548363,2012-05-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Eden Gardens,Kolkata,Group,Mumbai Indians,runs,27,182,155,1,4,Day,False
+548364,2012-05-12,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,9,114,115,5,1,Night,False
+548367,2012-05-14,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,wickets,5,171,173,6,5,Day,False
+548368,2012-05-14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,Kolkata,Group,Chennai Super Kings,wickets,5,158,160,6,5,Night,False
+548369,2012-05-15,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,5,136,140,8,5,Night,False
+548370,2012-05-16,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Kolkata Knight Riders,runs,32,140,108,7,10,Night,False
+548371,2012-05-17,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Punjab Kings,wickets,6,120,123,7,4,Day,False
+548372,2012-05-17,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Royal Challengers Bengaluru,runs,21,215,194,1,9,Night,False
+548374,2012-05-19,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Delhi Capitals,wickets,6,141,145,8,4,Night,False
+548377,2012-05-20,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Mumbai Indians,wickets,10,162,163,6,0,Night,False
+548378,2012-05-22,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Subrata Roy Sahara Stadium,Pune,Qualifier 1,Kolkata Knight Riders,runs,18,162,144,4,8,Night,False
+548379,2012-05-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Elimination Final,Chennai Super Kings,runs,38,187,149,5,9,Night,False
+548380,2012-05-25,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,"MA Chidambaram Stadium, Chepauk",Chennai,Qualifier 2,Chennai Super Kings,runs,86,222,136,5,10,Night,False
+548381,2012-05-27,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Final,Kolkata Knight Riders,wickets,5,190,192,3,5,Night,False
+597998,2013-04-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,6,128,129,10,4,Night,False
+597999,2013-04-04,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,2,156,154,5,5,Night,False
+598001,2013-04-06,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,Delhi,Group,Rajasthan Royals,runs,5,165,160,7,6,Day,False
+598002,2013-04-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Mumbai Indians,runs,9,148,139,6,9,Night,False
+598004,2013-04-07,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,,,0,130,130,8,7,Night,False
+598005,2013-04-08,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,19,144,125,6,10,Night,False
+598006,2013-04-09,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,44,209,165,5,9,Day,False
+598007,2013-04-10,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Chennai Super Kings,wickets,10,138,139,10,0,Night,False
+598008,2013-04-11,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,8,154,158,8,2,Night,False
+598010,2013-04-12,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Sunrisers Hyderabad,wickets,3,114,115,8,7,Night,False
+598012,2013-04-13,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,4,165,166,6,6,Night,False
+598013,2013-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,48,180,132,4,7,Day,False
+598014,2013-04-14,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,6,124,126,10,4,Night,False
+598016,2013-04-16,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,4,157,153,9,9,Day,False
+598017,2013-04-16,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,,,0,152,152,5,7,Night,False
+598019,2013-04-17,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,runs,87,179,92,3,10,Night,False
+598020,2013-04-18,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Feroz Shah Kotla,Delhi,Group,Chennai Super Kings,runs,86,169,83,4,10,Night,False
+598021,2013-04-19,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,5,123,127,9,5,Night,False
+598022,2013-04-20,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Chennai Super Kings,wickets,4,119,124,9,6,Day,False
+598023,2013-04-20,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,7,117,123,10,3,Night,False
+598024,2013-04-21,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,9,161,165,4,1,Night,False
+598026,2013-04-22,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,5,185,186,4,5,Night,False
+598028,2013-05-16,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Punjab Kings,runs,7,171,164,4,7,Night,False
+598029,2013-04-24,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Mumbai Indians,wickets,5,159,162,6,5,Night,False
+598030,2013-04-25,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,wickets,5,159,160,6,5,Night,False
+598031,2013-04-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,6,149,150,6,4,Night,False
+598032,2013-04-27,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,8,144,146,9,2,Day,False
+598033,2013-04-27,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,58,194,136,7,7,Night,False
+598034,2013-04-28,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,14,200,186,3,4,Night,False
+598036,2013-04-29,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,4,171,173,6,6,Day,False
+598037,2013-04-29,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,4,174,170,3,10,Night,False
+598039,2013-05-01,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,7,129,130,4,3,Day,False
+598040,2013-05-01,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Shaheed Veer Narayan Singh International Stadium,Raipur,Group,Delhi Capitals,wickets,7,136,137,7,3,Night,False
+598041,2013-05-02,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,15,186,171,4,6,Night,False
+598043,2013-05-03,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,132,133,6,2,Night,False
+598044,2013-05-04,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,6,80,81,10,4,Night,False
+598045,2013-05-14,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Punjab Kings,wickets,7,174,176,5,3,Day,False
+598046,2013-05-05,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,60,139,79,5,10,Night,False
+598048,2013-04-09,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,7,161,162,6,3,Night,False
+598049,2013-05-07,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,9,154,155,4,1,Day,False
+598050,2013-05-07,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,65,170,105,6,10,Night,False
+598051,2013-05-08,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Chennai Super Kings,runs,77,223,146,3,8,Night,False
+598052,2013-05-09,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Rajasthan Royals,wickets,8,145,147,6,2,Night,False
+598054,2013-05-10,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Royal Challengers Bengaluru,runs,4,183,179,4,7,Night,False
+598056,2013-05-11,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Sunrisers Hyderabad,runs,30,150,120,7,9,Night,False
+598057,2013-05-12,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,JSCA International Stadium Complex,Ranchi,Group,Kolkata Knight Riders,wickets,5,115,116,9,5,Day,False
+598058,2013-05-12,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Sawai Mansingh Stadium,Jaipur,Group,Rajasthan Royals,wickets,5,141,144,4,5,Night,False
+598059,2013-04-23,Delhi Capitals,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,Delhi,Group,Punjab Kings,wickets,5,120,121,7,5,Night,False
+598060,2013-05-13,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,7,178,184,3,4,Night,False
+598062,2013-05-14,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,33,168,135,4,9,Night,False
+598063,2013-05-15,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,14,166,152,8,7,Night,False
+598064,2013-05-06,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,6,190,194,3,4,Night,False
+598065,2013-05-17,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,23,136,113,9,9,Night,False
+598066,2013-05-18,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Himachal Pradesh Cricket Association Stadium,Dharamsala,Group,Punjab Kings,runs,50,183,133,8,9,Day,False
+598068,2013-05-18,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,24,106,82,2,6,Night,False
+598069,2013-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,5,130,132,7,5,Night,False
+598070,2013-05-21,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Feroz Shah Kotla,Delhi,Qualifier 1,Chennai Super Kings,runs,48,192,144,1,10,Night,False
+598071,2013-05-22,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Feroz Shah Kotla,Delhi,Eliminator,Rajasthan Royals,wickets,4,132,135,7,6,Night,False
+598072,2013-05-24,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,Kolkata,Qualifier 2,Mumbai Indians,wickets,4,165,169,6,6,Night,False
+598073,2013-05-26,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Eden Gardens,Kolkata,Final,Mumbai Indians,runs,23,148,125,9,9,Night,False
+729279,2014-04-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Kolkata Knight Riders,runs,41,163,122,5,7,Night,False
+729281,2014-04-17,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sharjah Cricket Stadium,,Group,Royal Challengers Bengaluru,wickets,8,145,146,4,2,Night,False
+729283,2014-04-18,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Punjab Kings,wickets,6,205,206,4,4,Day,False
+729285,2014-04-18,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Rajasthan Royals,wickets,4,133,135,6,6,Night,False
+729287,2014-04-19,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Dubai International Cricket Stadium,,Group,Royal Challengers Bengaluru,wickets,7,115,116,9,3,Day,False
+729289,2014-04-19,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Dubai International Cricket Stadium,,Group,Delhi Capitals,wickets,4,166,167,5,6,Night,False
+729291,2014-04-20,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Sharjah Cricket Stadium,,Group,Punjab Kings,wickets,7,191,193,5,3,Night,False
+729293,2014-04-21,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,Chennai Super Kings,runs,93,177,84,7,9,Night,False
+729295,2014-04-22,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sharjah Cricket Stadium,,Group,Punjab Kings,runs,72,193,121,6,10,Night,False
+729297,2014-04-23,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Dubai International Cricket Stadium,,Group,Chennai Super Kings,runs,7,140,133,6,10,Night,False
+729299,2014-04-24,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Sharjah Cricket Stadium,,Group,Kolkata Knight Riders,runs,2,150,148,7,5,Night,False
+729301,2014-04-25,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,runs,4,184,180,1,4,Day,False
+729303,2014-04-25,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Dubai International Cricket Stadium,,Group,Chennai Super Kings,wickets,7,141,142,7,3,Night,False
+729305,2014-04-26,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Rajasthan Royals,wickets,6,70,71,10,4,Day,False
+729307,2014-04-26,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Sheikh Zayed Stadium,Abu Dhabi,Group,Punjab Kings,runs,23,132,109,9,10,Night,False
+729309,2014-04-27,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Sharjah Cricket Stadium,,Group,Delhi Capitals,wickets,6,125,126,7,4,Day,False
+729311,2014-04-27,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sharjah Cricket Stadium,,Group,Chennai Super Kings,wickets,5,145,146,5,5,Night,False
+729313,2014-04-28,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Dubai International Cricket Stadium,,Group,Punjab Kings,wickets,5,124,127,8,5,Night,False
+729315,2014-04-29,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Sheikh Zayed Stadium,Abu Dhabi,Group,,,0,152,152,5,8,Night,False
+729317,2014-04-30,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Dubai International Cricket Stadium,,Group,Sunrisers Hyderabad,runs,15,172,157,5,7,Night,False
+733971,2014-05-02,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,JSCA International Stadium Complex,Ranchi,Group,Chennai Super Kings,runs,34,148,114,3,9,Night,False
+733973,2014-05-03,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,5,168,170,5,5,Day,False
+733975,2014-05-03,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Feroz Shah Kotla,Delhi,Group,Rajasthan Royals,wickets,7,152,156,5,3,Night,False
+733977,2014-05-04,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,4,155,158,6,6,Night,False
+733979,2014-05-05,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,runs,10,170,160,6,6,Day,False
+733981,2014-05-05,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,Delhi,Group,Chennai Super Kings,wickets,8,178,181,5,2,Night,False
+733983,2014-05-06,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,19,187,168,5,8,Night,False
+733985,2014-05-07,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Feroz Shah Kotla,Delhi,Group,Kolkata Knight Riders,wickets,8,160,161,5,2,Day,False
+733987,2014-05-07,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Barabati Stadium,Cuttack,Group,Punjab Kings,runs,44,231,187,4,6,Night,False
+733989,2014-05-08,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Sunrisers Hyderabad,runs,32,134,102,9,10,Night,False
+733991,2014-05-09,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Punjab Kings,runs,32,198,166,8,9,Night,False
+733993,2014-05-10,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Feroz Shah Kotla,Delhi,Group,Sunrisers Hyderabad,wickets,8,143,44,7,2,Day,True
+733995,2014-05-10,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Group,Chennai Super Kings,wickets,4,157,160,6,6,Night,False
+733997,2014-05-11,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Barabati Stadium,Cuttack,Group,Kolkata Knight Riders,wickets,9,149,150,8,1,Day,False
+733999,2014-05-11,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,M Chinnaswamy Stadium,Bangalore,Group,Rajasthan Royals,wickets,5,190,191,5,5,Night,False
+734001,2014-05-12,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Mumbai Indians,wickets,7,157,160,3,3,Night,False
+734003,2014-05-13,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,JSCA International Stadium Complex,Ranchi,Group,Chennai Super Kings,wickets,5,148,149,8,5,Day,False
+734005,2014-05-13,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,16,186,170,4,7,Night,False
+734007,2014-05-14,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Punjab Kings,wickets,6,205,211,5,4,Day,False
+734009,2014-05-14,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Barabati Stadium,Cuttack,Group,Kolkata Knight Riders,wickets,6,141,142,5,4,Night,False
+734011,2014-05-15,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,runs,62,201,139,6,9,Night,False
+734013,2014-05-18,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,JSCA International Stadium Complex,Ranchi,Group,Royal Challengers Bengaluru,wickets,5,138,142,4,5,Day,False
+734015,2014-05-18,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Kolkata Knight Riders,wickets,7,142,146,8,3,Night,False
+734017,2014-05-19,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Mumbai Indians,runs,25,178,153,3,8,Day,False
+734019,2014-05-19,Delhi Capitals,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,Delhi,Group,Punjab Kings,wickets,4,164,165,7,6,Night,False
+734021,2014-05-20,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,7,160,161,6,3,Day,False
+734023,2014-05-20,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,8,154,156,4,2,Night,False
+734025,2014-05-21,Punjab Kings,Mumbai Indians,Mumbai Indians,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Mumbai Indians,wickets,7,156,159,8,3,Night,False
+734027,2014-05-22,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,30,195,165,4,5,Day,False
+734029,2014-05-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,JSCA International Stadium Complex,Ranchi,Group,Sunrisers Hyderabad,wickets,6,185,189,3,4,Night,False
+734031,2014-05-23,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,15,173,158,10,4,Day,False
+734033,2014-05-23,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,16,179,163,4,8,Night,False
+734035,2014-05-24,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Chennai Super Kings,wickets,8,154,160,6,2,Day,False
+734037,2014-05-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,4,160,161,7,6,Night,False
+734039,2014-05-25,Punjab Kings,Delhi Capitals,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,wickets,7,115,119,10,3,Day,False
+734041,2014-05-25,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,5,189,195,4,5,Night,False
+734043,2014-05-27,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Eden Gardens,Kolkata,Qualifier 1,Kolkata Knight Riders,runs,28,163,135,8,8,Night,False
+734045,2014-05-28,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Brabourne Stadium,Mumbai,Eliminator,Chennai Super Kings,wickets,7,173,176,8,3,Night,False
+734047,2014-05-30,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Wankhede Stadium,Mumbai,Qualifier 2,Punjab Kings,runs,24,226,202,6,7,Night,False
+734049,2014-06-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,M Chinnaswamy Stadium,Bangalore,Final,Kolkata Knight Riders,wickets,3,199,200,4,7,Night,False
+829705,2015-04-08,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,7,168,170,3,3,Night,False
+829707,2015-04-09,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,1,150,149,7,9,Night,False
+829709,2015-04-10,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Maharashtra Cricket Association Stadium,Pune,Group,Rajasthan Royals,runs,26,162,136,7,8,Night,False
+829711,2015-04-11,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,45,209,164,4,6,Day,False
+829713,2015-04-11,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Eden Gardens,Kolkata,Group,Royal Challengers Bengaluru,wickets,3,177,179,6,7,Night,False
+829715,2015-04-12,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Feroz Shah Kotla,Delhi,Group,Rajasthan Royals,wickets,3,184,186,3,7,Day,False
+829717,2015-04-12,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Punjab Kings,runs,18,177,159,5,7,Night,False
+829719,2015-04-13,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,M Chinnaswamy Stadium,Bangalore,Group,Sunrisers Hyderabad,wickets,8,166,172,10,2,Night,False
+829721,2015-04-14,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,wickets,7,164,165,6,3,Night,False
+829723,2015-04-30,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,7,165,169,9,3,Night,False
+829725,2015-04-15,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Maharashtra Cricket Association Stadium,Pune,Group,Delhi Capitals,wickets,5,165,169,7,5,Night,False
+829727,2015-04-16,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Rajasthan Royals,wickets,6,127,131,5,4,Night,False
+829729,2015-04-17,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Chennai Super Kings,wickets,6,183,189,7,4,Night,False
+829731,2015-04-18,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Delhi Capitals,runs,4,167,163,4,8,Day,False
+829733,2015-04-18,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Maharashtra Cricket Association Stadium,Pune,Group,Kolkata Knight Riders,wickets,4,155,159,9,6,Night,False
+829735,2015-04-19,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Rajasthan Royals,wickets,8,156,157,4,2,Day,False
+829737,2015-04-19,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,runs,18,209,191,7,7,Night,False
+829739,2015-04-20,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,Delhi,Group,Kolkata Knight Riders,wickets,6,146,147,8,4,Night,False
+829741,2015-04-21,Rajasthan Royals,Punjab Kings,Punjab Kings,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,,,0,191,191,6,6,Night,False
+829743,2015-04-22,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Sunrisers Hyderabad,runs,16,176,101,4,4,Day,True
+829745,2015-04-22,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Chennai Super Kings,runs,27,181,154,8,8,Night,False
+829747,2015-04-23,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,37,190,153,4,9,Night,False
+829749,2015-04-24,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Sardar Patel Stadium, Motera",Ahmedabad,Group,Royal Challengers Bengaluru,wickets,9,130,134,9,1,Night,False
+829751,2015-04-25,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,20,157,137,8,8,Day,False
+829753,2015-04-25,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,97,192,95,3,9,Night,False
+829757,2015-04-26,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Feroz Shah Kotla,Delhi,Group,Royal Challengers Bengaluru,wickets,10,95,99,10,0,Night,False
+829759,2015-04-27,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Sunrisers Hyderabad,runs,20,150,130,6,9,Night,False
+829761,2015-05-07,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,13,171,158,7,6,Day,False
+829763,2015-04-29,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,M Chinnaswamy Stadium,Bangalore,Group,,,0,200,0,7,0,Night,False
+829765,2015-04-28,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,2,134,132,6,9,Night,False
+829767,2015-05-01,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,9,118,119,8,1,Day,False
+829769,2015-05-01,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,8,187,179,5,7,Night,False
+829771,2015-05-02,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,wickets,7,111,115,4,3,Day,False
+829773,2015-05-02,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,22,192,170,7,6,Night,False
+829775,2015-05-03,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Mumbai Indians,runs,23,172,149,3,7,Day,False
+829777,2015-05-03,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Brabourne Stadium,Mumbai,Group,Rajasthan Royals,runs,14,189,175,2,7,Night,False
+829779,2015-05-04,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,24,148,124,9,10,Day,False
+829781,2015-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,35,167,132,7,9,Night,False
+829783,2015-05-05,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,5,152,153,6,5,Night,False
+829785,2015-05-06,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,138,226,88,3,10,Night,False
+829787,2015-05-07,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Brabourne Stadium,Mumbai,Group,Sunrisers Hyderabad,runs,7,201,194,4,7,Night,False
+829789,2015-05-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Mumbai Indians,wickets,6,158,159,5,4,Night,False
+829791,2015-05-09,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,1,183,184,5,9,Day,False
+829793,2015-05-09,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Shaheed Veer Narayan Singh International Stadium,Raipur,Group,Sunrisers Hyderabad,runs,6,163,157,4,4,Night,False
+829795,2015-05-10,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Wankhede Stadium,Mumbai,Group,Royal Challengers Bengaluru,runs,39,235,196,1,7,Day,False
+829797,2015-05-10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,"MA Chidambaram Stadium, Chepauk",Chennai,Group,Chennai Super Kings,runs,12,157,145,5,9,Night,False
+829799,2015-05-11,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,5,185,180,5,7,Night,False
+829801,2015-05-12,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Shaheed Veer Narayan Singh International Stadium,Raipur,Group,Delhi Capitals,wickets,6,119,120,6,4,Night,False
+829803,2015-05-13,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,22,106,84,6,6,Night,False
+829805,2015-05-14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,runs,5,171,166,4,7,Night,False
+829807,2015-05-15,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Royal Challengers Bengaluru,wickets,6,135,83,3,4,Night,True
+829809,2015-05-16,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Group,Chennai Super Kings,wickets,7,130,134,7,3,Day,False
+829811,2015-05-16,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Brabourne Stadium,Mumbai,Group,Rajasthan Royals,runs,9,199,190,6,9,Night,False
+829813,2015-05-17,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,M Chinnaswamy Stadium,Bangalore,Group,,,0,187,2,5,0,Day,False
+829815,2015-05-17,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Mumbai Indians,wickets,9,113,114,10,1,Night,False
+829817,2015-05-19,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Wankhede Stadium,Mumbai,Qualifier 1,Mumbai Indians,runs,25,187,162,6,10,Night,False
+829819,2015-05-20,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Maharashtra Cricket Association Stadium,Pune,Eliminator,Royal Challengers Bengaluru,runs,71,180,109,4,10,Night,False
+829821,2015-05-22,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,JSCA International Stadium Complex,Ranchi,Qualifier 2,Chennai Super Kings,wickets,3,139,140,8,7,Night,False
+829823,2015-05-24,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,Kolkata,Final,Mumbai Indians,runs,41,202,161,5,8,Night,False
+980903,2016-04-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,wickets,9,98,99,10,1,Night,False
+980907,2016-04-12,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,45,227,182,4,6,Night,False
+980909,2016-04-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Eden Gardens,Kolkata,Group,Mumbai Indians,wickets,6,187,188,5,4,Night,False
+980913,2016-04-15,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,wickets,8,111,113,9,2,Night,False
+980915,2016-04-16,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Kolkata Knight Riders,wickets,8,142,146,7,2,Night,False
+980921,2016-04-17,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,M Chinnaswamy Stadium,Bangalore,Group,Delhi Capitals,wickets,7,191,192,5,3,Night,False
+980923,2016-04-18,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,7,142,145,6,3,Night,False
+980925,2016-04-19,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Kolkata Knight Riders,wickets,6,138,141,8,4,Night,False
+980927,2016-04-20,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,6,170,171,7,4,Night,False
+980933,2016-04-23,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,10,164,154,4,7,Day,False
+980935,2016-04-23,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,wickets,5,143,146,6,5,Night,False
+980941,2016-04-25,Punjab Kings,Mumbai Indians,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Mumbai Indians,runs,25,189,164,6,7,Night,False
+980947,2016-04-28,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede Stadium,Mumbai,Group,Mumbai Indians,wickets,6,174,178,5,4,Night,False
+980951,2016-04-30,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,Delhi,Group,Delhi Capitals,runs,27,186,159,8,10,Day,False
+980953,2016-04-30,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Sunrisers Hyderabad,runs,15,194,179,5,6,Night,False
+980959,2016-05-02,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,M Chinnaswamy Stadium,Bangalore,Group,Kolkata Knight Riders,wickets,5,185,189,7,5,Night,False
+980963,2016-05-04,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,7,164,157,3,9,Night,False
+980971,2016-05-07,Punjab Kings,Delhi Capitals,Delhi Capitals,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Punjab Kings,runs,9,181,172,5,5,Night,False
+980973,2016-05-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Sunrisers Hyderabad,runs,85,177,92,3,10,Night,False
+980977,2016-05-09,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Royal Challengers Bengaluru,runs,1,175,174,6,4,Night,False
+980981,2016-05-11,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,M Chinnaswamy Stadium,Bangalore,Group,Mumbai Indians,wickets,6,151,153,4,4,Night,False
+980983,2016-05-12,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Group,Delhi Capitals,wickets,7,146,150,8,3,Night,False
+980985,2016-05-13,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Punjab Kings,wickets,7,124,127,9,3,Night,False
+980991,2016-05-15,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Group,Sunrisers Hyderabad,wickets,7,179,180,4,3,Day,False
+980993,2016-05-15,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Group,Mumbai Indians,runs,80,206,126,4,10,Night,False
+980995,2016-05-16,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Eden Gardens,Kolkata,Group,Royal Challengers Bengaluru,wickets,9,183,186,5,1,Night,False
+980999,2016-05-18,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,M Chinnaswamy Stadium,Bangalore,Group,Royal Challengers Bengaluru,runs,82,211,120,3,9,Night,True
+981003,2016-05-20,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Shaheed Veer Narayan Singh International Stadium,Raipur,Group,Delhi Capitals,wickets,6,158,161,7,4,Night,False
+981009,2016-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,Kolkata,Group,Kolkata Knight Riders,runs,22,171,149,6,8,Day,False
+981011,2016-05-22,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Shaheed Veer Narayan Singh International Stadium,Raipur,Group,Royal Challengers Bengaluru,wickets,6,138,139,8,4,Night,False
+981015,2016-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,Delhi,Elimination Final,Sunrisers Hyderabad,runs,22,162,140,8,8,Night,False
+981019,2016-05-29,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,M Chinnaswamy Stadium,Bangalore,Final,Sunrisers Hyderabad,runs,8,208,200,7,7,Night,False
