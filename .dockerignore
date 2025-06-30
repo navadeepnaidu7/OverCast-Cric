@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+.mypy_cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+menv
+
+
+
+# OS or IDE-specific
+
+.vscode/
+.idea/
+*.swp
+
+# Git-related
+.git
+.gitignore
+
+# Logs
+*.log
+
+# Environment/secrets
+.env.local
+.env.development
+.env.test
+.env.*
+secrets.env
+
+# System files
+Thumbs.db
+
+
+
